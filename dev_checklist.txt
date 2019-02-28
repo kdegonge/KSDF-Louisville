@@ -1,0 +1,46 @@
+++SDF++ 162.5 hrs
+[x] runway markings
+[x] taxiway poly
+[x] taxiway shoulders
+[x] taxaiway overlay
+[x] taxiway paint
+[x] taxiway edges
+[x] grass edges
+[x] taxiway edge lines
+[x] taxiway center lines
+[x] taxiway hold short lines
+[x] taxiway shoulder lines
+[x] parking lines
+[x] taxiway misc lines
+[x] taxiway roads
+[x] lights
+[x] taxiway markings
+[x] parking dirt/stain overlay
+[x] road rubber marks
+[x] ground paint
+[x] fix missing lines
+[x] tar marks
+[x] ortho
+[x] papi lights
+[x] 3d grass
+[x] taxiway rubber marks
+[x] taxiway signs
+[x] color correct ortho +75s +10r -10b
+[x] ortho file format
+[x] ortho crop tiles
+[x] raise ground paint objects (clipping issues)
+[x] make drain line
+[x] fix ortho fedex ramp
+[x] add drain at fedex ramp, maybe ANG
+[x] run performance tests
+[x] create building map
+[x] aircraft ramp positions
+[ ] low detail buildings
+[ ] med detail buildings
+[ ] high detail buildings
+[ ] appr light fence
+[ ] windsocks
+[ ] jetways/autogate
+[ ] static aircraft [misterx]
+[ ] optimize runway signs (decrease poly count)
+[ ] optimize shoulder markings?

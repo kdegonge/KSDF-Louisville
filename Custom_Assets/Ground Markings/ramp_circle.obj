@@ -1,0 +1,26 @@
+I
+800
+OBJ
+
+TEXTURE	ramp_circle.png
+POINT_COUNTS	6	0	0	6
+
+VT	1.5	0.02	-1.5	0	1	-0	1	1
+VT	1.5	0.02	1.5	0	1	-0	1	0
+VT	-1.5	0.02	1.5	0	1	-0	0	0
+VT	-1.5	0.02	1.5	0	1	-0	0	0
+VT	-1.5	0.02	-1.5	0	1	-0	0	1
+VT	1.5	0.02	-1.5	0	1	-0	1	1
+
+IDX	0
+IDX	1
+IDX	2
+IDX	3
+IDX	4
+IDX	5
+
+ATTR_no_shadow
+ATTR_shiny_rat	0.5
+TRIS	0 6
+
+# Build with Blender 2.79 (sub 0) (build b'f4dc9f9d68b'). Exported with XPlane2Blender 3.5.0-rc.1+40.20181016150257
