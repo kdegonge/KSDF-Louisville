@@ -17,3 +17,7 @@ Please report any bugs with the beta on the official project discord or on the o
 * missing many perimeter buildings and sheds on property
 * radio frequencies not configured
 * broken gate signs on the passenger terminal
+
+To conctact me about this repo please send me a message on [the org](https://forums.x-plane.org/index.php?/profile/534962-function86/) or send me a pm on [reddit](https://old.reddit.com/user/StableSystem/)
+
+This repository and its contents are protected under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
