@@ -609,31 +609,31 @@ I
 1301 D cargo fdx
 1300  38.17604322 -085.74857784 -104.76 gate jets|turboprops FedEx Ramp
 1301 D cargo fdx
-1300  38.18409718 -085.74055699 -155.14 gate jets|turboprops A1
+1300  38.18414735 -085.74052814 -155.14 gate jets|turboprops A1
 1301 C airline dal
-1300  38.18401045 -085.74007106 -159.30 gate jets|turboprops A3
+1300  38.18408071 -085.74003644 -159.30 gate jets|turboprops A3
 1301 C airline dal
-1300  38.18391428 -085.73961985 -159.13 gate jets|turboprops A5
+1300  38.18398553 -085.73958523 -159.13 gate jets|turboprops A5
 1301 C airline dal
-1300  38.18388199 -085.73919806 -158.25 gate jets|turboprops A9
+1300  38.18393284 -085.73917227 -158.25 gate jets|turboprops A9
 1301 B airline ual
-1300  38.18401088 -085.73884336 -132.85 gate jets|turboprops A11
+1300  38.18406242 -085.73877202 -132.85 gate jets|turboprops A11
 1301 C airline ual
-1300  38.18385857 -085.73845271 -101.99 gate jets|turboprops A15
+1300  38.18387094 -085.73838242 -101.99 gate jets|turboprops A15
 1301 C airline ual
 1300  38.18358208 -085.73835512 -74.35 gate jets|turboprops A14
 1301 C airline aal
-1300  38.18341256 -085.73842833 330.02 gate jets|turboprops A14A
+1300  38.18341256 -085.73842833 330.02 gate jets|turboprops A14A (no jetway)
 1301 C airline aal
 1300  38.18332634 -085.73866924 357.78 gate jets|turboprops A12
 1301 C airline dal
 1300  38.18318612 -085.73902262  23.12 gate jets|turboprops A10
 1301 C airline dal
-1300  38.18331666 -085.73932111  36.93 gate jets|turboprops A8
+1300  38.18322560 -085.73940744  36.93 gate jets|turboprops A8
 1301 C airline asq
-1300  38.18327161 -085.73969312  73.15 gate jets|turboprops A6
+1300  38.18325569 -085.73976029  73.15 gate jets|turboprops A6
 1301 B airline asq
-1300  38.18344362 -085.74001993  85.03 gate jets|turboprops A4
+1300  38.18343949 -085.74008988  85.03 gate jets|turboprops A4
 1301 B airline asq
 1300  38.18320558 -085.74079400 -74.84 gate jets|turboprops B5
 1301 C airline fft
@@ -651,7 +651,7 @@ I
 1301 C airline swa
 1300  38.18249134 -085.74203111 -178.77 gate jets|turboprops B16
 1301 C airline aal
-1300  38.18295848 -085.74148205 -235.00 gate jets|turboprops B6
+1300  38.18297738 -085.74151571 -235.00 gate jets|turboprops B6
 1301 C airline aal
 1300  38.18335447 -085.74144804 -216.06 gate jets|turboprops B4
 1301 C airline aal
