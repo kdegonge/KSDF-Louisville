@@ -1,4 +1,4 @@
-++SDF++ 170.25 hrs
+++SDF++ 194.75 hrs
 [x] runway markings
 [x] taxiway poly
 [x] taxiway shoulders
@@ -16,7 +16,7 @@
 [x] lights
 [x] taxiway markings
 [x] parking dirt/stain overlay
-[x] road rubber marks
+[x] road rubber marks 8.45
 [x] ground paint
 [x] fix missing lines
 [x] tar marks
@@ -35,12 +35,24 @@
 [x] run performance tests
 [x] create building map
 [x] aircraft ramp positions
-[ ] low detail buildings
-[ ] med detail buildings
-[ ] high detail buildings
+[x] sam jetways
+[ ] buildings (see spreadsheet for progress tracking)
 [ ] appr light fence
 [ ] windsocks
-[ ] jetways/autogate
-[ ] static aircraft [misterx]
-[ ] optimize runway signs (decrease poly count)
+[ ] sam marshallers
+[ ] optimize runway signs (decrease poly count, switch library)
 [ ] optimize shoulder markings?
+[ ] compress building textures
+[ ] ground clutter
+[ ] perimeter buildings
+[ ] vegetation
+[ ] taxi routes
+[ ] ground routes
+[ ] fix lights on 17R threshold
+[ ] sinking taxiway B between B7 and G
+
+commit notes
+-added new parts of worldport
+-airport layout now shows in xplane menu
+-fixed 3d lights that should have been embedded
+-fixed stray line by pier D
