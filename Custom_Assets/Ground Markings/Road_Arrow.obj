@@ -2,8 +2,8 @@ I
 800
 OBJ
 
-TEXTURE	Road_Arrow.png
-TEXTURE_NORMAL	Road_Arrow_NML.png
+TEXTURE
+TEXTURE_DRAPED Road_Arrow.png
 POINT_COUNTS	6	0	0	6
 
 VT	0.84854364	0.02	1.54909635	0.00453533	0.99998969	-0.00013075	0.99999982	0
@@ -20,8 +20,8 @@ IDX	3
 IDX	4
 IDX	5
 
-ATTR_no_shadow
-ATTR_shiny_rat	0.5
+ATTR_shadow_blend
+ATTR_draped
 TRIS	0 6
 
 # Build with Blender 2.79 (sub 0) (build b'f4dc9f9d68b'). Exported with XPlane2Blender 3.5.0-rc.1+40.20181016150257
