@@ -1540,15 +1540,15 @@ I
 1300  38.17170363 -085.72985967  21.34 gate heavy|jets|turboprops UPS Ramp 4
 1301 D cargo ups
 1300  38.16938401 -085.72879274 -140.60 gate heavy|jets|turboprops UPS Ramp 6
-1301 E cargo ups
+1301 D cargo ups
 1300  38.16998306 -085.73079628 -140.60 gate heavy|jets|turboprops UPS Ramp 6
 1301 D cargo ups
 1300  38.16958722 -085.72947088 -140.60 gate heavy|jets|turboprops UPS Ramp 6
 1301 D cargo ups
 1300  38.17018626 -085.73147442 -140.60 gate heavy|jets|turboprops UPS Ramp 6
-1301 E cargo ups
+1301 D cargo ups
 1300  38.16979462 -085.73015204 -140.60 gate heavy|jets|turboprops UPS Ramp 6
-1301 E cargo ups
+1301 D cargo ups
 1300  38.16879411 -085.72980972  -6.98 gate heavy|jets|turboprops UPS Ramp 6
 1301 D cargo ups
 1300  38.16843793 -085.72855731  -6.98 gate heavy|jets|turboprops UPS Ramp 6
@@ -1565,19 +1565,19 @@ I
 1301 D cargo ups
 1300  38.17152563 -085.72927422  21.29 gate heavy|jets|turboprops UPS Ramp 4
 1301 D cargo ups
-1300  38.17267501 -085.72981044 -179.75 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17273072 -085.72981759 -179.75 gate heavy|jets|turboprops UPS Ramp 2
 1301 D cargo ups
-1300  38.17285639 -085.73040192 178.71 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17291210 -085.73040907 178.71 gate heavy|jets|turboprops UPS Ramp 2
 1301 D cargo ups
-1300  38.17304137 -085.73100731 178.50 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17309708 -085.73101446 178.50 gate heavy|jets|turboprops UPS Ramp 2
 1301 D cargo ups
-1300  38.17323032 -085.73162102 175.96 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17328603 -085.73162818 175.96 gate heavy|jets|turboprops UPS Ramp 2
 1301 D cargo ups
-1300  38.17340830 -085.73223161 173.93 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17346401 -085.73223876 173.93 gate heavy|jets|turboprops UPS Ramp 2
 1301 D cargo ups
-1300  38.17361338 -085.73287601 172.18 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17366908 -085.73288317 172.18 gate heavy|jets|turboprops UPS Ramp 2
 1301 D cargo ups
-1300  38.17380353 -085.73352388 170.28 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17385924 -085.73353104 170.28 gate heavy|jets|turboprops UPS Ramp 2
 1301 D cargo ups
 1300  38.17505436 -085.73740825 159.22 gate heavy|jets|turboprops UPS Ramp 1
 1301 D cargo ups
@@ -1585,19 +1585,19 @@ I
 1301 D cargo ups
 1300  38.17549087 -085.73887149 157.46 gate heavy|jets|turboprops UPS Ramp 1
 1301 D cargo ups
-1300  38.16730133 -085.73845116 -159.51 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16735334 -085.73842599 -159.51 gate heavy|jets|turboprops UPS Ramp 7
 1301 D cargo ups
 1300  38.16362989 -085.73144830 232.18 gate heavy|jets|turboprops UPS Ramp 9
-1301 D cargo ups
+1301 E cargo ups
 1300  38.16405528 -085.73282453 232.18 gate heavy|jets|turboprops UPS Ramp 9
+1301 E cargo ups
+1300  38.16264275 -085.72604287  20.50 gate heavy|jets|turboprops UPS Ramp 9
 1301 D cargo ups
-1300  38.16269458 -085.72601871  20.50 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16283512 -085.72667324  20.50 gate heavy|jets|turboprops UPS Ramp 9
 1301 D cargo ups
-1300  38.16288695 -085.72664908  20.50 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16301311 -085.72725289  20.50 gate heavy|jets|turboprops UPS Ramp 9
 1301 D cargo ups
-1300  38.16306494 -085.72722873  20.50 gate heavy|jets|turboprops UPS Ramp 9
-1301 D cargo ups
-1300  38.16325737 -085.72786060  20.50 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16320554 -085.72788476  20.50 gate heavy|jets|turboprops UPS Ramp 9
 1301 D cargo ups
 1300  38.16233793 -085.73047316 -15.74 gate heavy|jets|turboprops UPS Ramp 11
 1301 D cargo ups
@@ -1635,105 +1635,105 @@ I
 1301 E cargo ups
 1300  38.16255431 -085.73117704 -15.74 gate heavy|jets|turboprops UPS Ramp 11
 1301 D cargo ups
-1300  38.16343404 -085.72845241  20.50 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16338221 -085.72847657  20.50 gate heavy|jets|turboprops UPS Ramp 9
 1301 D cargo ups
 1300  38.16341620 -085.73072905 232.18 gate heavy|jets|turboprops UPS Ramp 9
-1301 D cargo ups
+1301 E cargo ups
 1300  38.16385310 -085.73216007 232.18 gate heavy|jets|turboprops UPS Ramp 9
-1301 D cargo ups
+1301 E cargo ups
 1300  38.16427848 -085.73353630 232.18 gate heavy|jets|turboprops UPS Ramp 9
-1301 D cargo ups
+1301 E cargo ups
 1300  38.16451625 -085.73429539 232.18 gate heavy|jets|turboprops UPS Ramp 9
+1301 E cargo ups
+1300  38.16529380 -085.73522981  20.37 gate heavy|jets|turboprops UPS Ramp 9
 1301 D cargo ups
-1300  38.16534540 -085.73520583  20.37 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16546735 -085.73581513  20.37 gate heavy|jets|turboprops UPS Ramp 9
 1301 D cargo ups
-1300  38.16551895 -085.73579115  20.37 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16564859 -085.73639705  20.37 gate heavy|jets|turboprops UPS Ramp 9
 1301 D cargo ups
-1300  38.16570019 -085.73637307  20.37 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16582679 -085.73698096  20.37 gate heavy|jets|turboprops UPS Ramp 9
 1301 D cargo ups
-1300  38.16587838 -085.73695698  20.37 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16600560 -085.73756456  20.37 gate heavy|jets|turboprops UPS Ramp 9
 1301 D cargo ups
-1300  38.16605720 -085.73754058  20.37 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16786140 -085.73490447  20.37 gate heavy|jets|turboprops UPS Ramp 7
 1301 D cargo ups
-1300  38.16791299 -085.73488049  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16717584 -085.73784645 -159.62 gate heavy|jets|turboprops UPS Ramp 7
 1301 D cargo ups
-1300  38.16712383 -085.73787162 -159.62 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16803527 -085.73548918  20.37 gate heavy|jets|turboprops UPS Ramp 7
 1301 D cargo ups
-1300  38.16808687 -085.73546520  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16699934 -085.73725703 -159.66 gate heavy|jets|turboprops UPS Ramp 7
 1301 D cargo ups
-1300  38.16694732 -085.73728220 -159.66 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16821551 -085.73607087  20.37 gate heavy|jets|turboprops UPS Ramp 7
 1301 D cargo ups
-1300  38.16826711 -085.73604689  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16681833 -085.73667387 -159.84 gate heavy|jets|turboprops UPS Ramp 7
 1301 D cargo ups
-1300  38.16676632 -085.73669904 -159.84 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16838906 -085.73665621  20.37 gate heavy|jets|turboprops UPS Ramp 7
 1301 D cargo ups
-1300  38.16844066 -085.73663224  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16664116 -085.73608797 -159.72 gate heavy|jets|turboprops UPS Ramp 7
 1301 D cargo ups
-1300  38.16658915 -085.73611314 -159.72 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16857030 -085.73723816  20.37 gate heavy|jets|turboprops UPS Ramp 7
 1301 D cargo ups
-1300  38.16862189 -085.73721418  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16646569 -085.73550763 -159.60 gate heavy|jets|turboprops UPS Ramp 7
 1301 D cargo ups
-1300  38.16641368 -085.73553281 -159.60 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16874849 -085.73782209  20.37 gate heavy|jets|turboprops UPS Ramp 7
 1301 D cargo ups
-1300  38.16880009 -085.73779811  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16892731 -085.73840571  20.37 gate heavy|jets|turboprops UPS Ramp 7
 1301 D cargo ups
-1300  38.16897891 -085.73838173  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.17028863 -085.73931585 -159.51 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.17023662 -085.73934102 -159.51 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17079630 -085.73579913  20.37 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.17084789 -085.73577515  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17011113 -085.73873629 -159.62 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.17005912 -085.73876146 -159.62 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17097328 -085.73638486  20.37 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.17102488 -085.73636088  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.16993462 -085.73814683 -159.66 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.16988261 -085.73817201 -159.66 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17115242 -085.73697301  20.37 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.17120402 -085.73694903  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.16975362 -085.73756366 -159.84 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.16970161 -085.73758883 -159.84 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17132809 -085.73755253  20.37 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.17137969 -085.73752856  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.16957645 -085.73697773 -159.72 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.16952444 -085.73700290 -159.72 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17150652 -085.73813212  20.37 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.17155812 -085.73810815  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.16940098 -085.73639737 -159.60 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.16934897 -085.73642255 -159.60 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17168757 -085.73872430  20.37 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.17173916 -085.73870032  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.16922127 -085.73581366 -159.36 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.16916926 -085.73583883 -159.36 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17186533 -085.73930646  20.37 gate heavy|jets|turboprops UPS Ramp 5
 1301 D cargo ups
-1300  38.17191692 -085.73928248  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17324672 -085.74027875 -159.51 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
-1300  38.17319471 -085.74030392 -159.51 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17375008 -085.73676808  20.37 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
-1300  38.17380168 -085.73674410  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17306824 -085.73969247 -159.62 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
-1300  38.17301623 -085.73971764 -159.62 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17393113 -085.73735000  20.37 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
-1300  38.17398273 -085.73732602  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17289329 -085.73910676 -159.66 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
-1300  38.17284128 -085.73913193 -159.66 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17410889 -085.73793218  20.37 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
-1300  38.17416049 -085.73790820  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17271171 -085.73852064 -159.84 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
-1300  38.17265970 -085.73854581 -159.84 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17428523 -085.73851943  20.37 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
-1300  38.17433683 -085.73849545  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17253590 -085.73794157 -159.72 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
-1300  38.17248388 -085.73796674 -159.72 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17446299 -085.73910161  20.37 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
-1300  38.17451458 -085.73907763  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17235855 -085.73735406 -159.60 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
-1300  38.17230654 -085.73737923 -159.60 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17464404 -085.73968354  20.37 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
-1300  38.17469563 -085.73965956  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17218071 -085.73677745 -159.36 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
-1300  38.17212870 -085.73680262 -159.36 gate heavy|jets|turboprops UPS Ramp 3
-1301 D cargo ups
-1300  38.17487339 -085.74024175  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17482179 -085.74026572  20.37 gate heavy|jets|turboprops UPS Ramp 3
 1301 D cargo ups
 1300  38.17573248 -085.73967049 155.78 gate heavy|jets|turboprops UPS Ramp 1
 1301 D cargo ups
@@ -1824,4 +1824,901 @@ I
 18  38.18379771 -085.74393418 1 beacon
 19  38.18449461 -085.72925290 0 New Windsock 5
 19  38.16733444 -085.72556716 0 New Windsock 4
+1200 
+1201  38.17309052 -085.72394868 both 0 N_start
+1201  38.17340505 -085.72497960 both 1 N_start
+1201  38.17248463 -085.72465638 both 2 N_start
+1201  38.17395595 -085.72678527 both 3 N_start
+1201  38.17450738 -085.72859354 both 4 N_start
+1201  38.17544620 -085.72891647 both 5 N_start
+1201  38.17536645 -085.73140831 both 6 N_start
+1201  38.17603759 -085.73360033 both 7 N_start
+1201  38.17683324 -085.73621659 both 8 N_start
+1201  38.17760088 -085.73603558 both 9 N_start
+1201  38.17793296 -085.73595186 both 10 N_start
+1201  38.17714455 -085.73336252 both 11 N_start
+1201  38.17620648 -085.73028310 both 12 N_start
+1201  38.17596139 -085.73059514 both 13 N_start
+1201  38.17686811 -085.73342450 both 14 N_start
+1201  38.18360515 -085.73457547 both 15 N_start
+1201  38.18560601 -085.73409322 both 16 N_start
+1201  38.17797516 -085.73996132 both 17 N_start
+1201  38.17940977 -085.74466951 both 18 N_start
+1201  38.17845888 -085.74435235 both 19 N_start
+1201  38.17995560 -085.74645938 both 20 N_start
+1201  38.18018403 -085.74720832 both 21 N_start
+1201  38.17947028 -085.74755560 both 22 N_start
+1201  38.18103552 -085.74681412 both 23 N_start
+1201  38.18385515 -085.74774594 both 24 N_start
+1201  38.18463179 -085.74800118 both 25 N_start
+1201  38.18565188 -085.74833726 both 26 N_start
+1201  38.18678520 -085.74871481 both 27 N_start
+1201  38.16455617 -085.72357493 both 28 N_stop
+1201  38.18729932 -085.73134248 both 29 N_start
+1201  38.18721209 -085.73130983 both 30 N_start
+1201  38.18628196 -085.73099164 both 31 N_start
+1201  38.18343069 -085.73002086 both 32 N_start
+1201  38.18248069 -085.72969897 both 33 N_start
+1201  38.18005576 -085.72886836 both 34 N_start
+1201  38.17780639 -085.72810115 both 35 N_start
+1201  38.17800787 -085.72713704 both 36 N_start
+1201  38.17527542 -085.72723591 both 37 N_start
+1201  38.17492169 -085.72607609 both 38 N_start
+1201  38.17472473 -085.72543011 both 39 N_start
+1201  38.17434664 -085.72530160 both 40 N_start
+1201  38.17443851 -085.72447487 both 41 N_start
+1201  38.15550305 -085.73839412 both 42 N_start
+1201  38.15631199 -085.73866093 both 43 N_start
+1201  38.15827082 -085.73930554 both 44 N_start
+1201  38.15908394 -085.73957132 both 45 N_start
+1201  38.16322161 -085.74093894 both 46 N_start
+1201  38.16341768 -085.73998214 both 47 N_start
+1201  38.16631777 -085.74196178 both 48 N_start
+1201  38.16709646 -085.74222014 both 49 N_start
+1201  38.16897261 -085.74283786 both 50 N_start
+1201  38.16970869 -085.74307848 both 51 N_start
+1201  38.17247523 -085.74399230 both 52 N_start
+1201  38.17318845 -085.74422703 both 53 N_start
+1201  38.17484564 -085.74477552 both 54 N_start
+1201  38.17299113 -085.74517849 both 55 N_start
+1201  38.17584704 -085.74510637 both 56 N_start
+1201  38.17126382 -085.72689067 both 57 D3_stop
+1201  38.16859892 -085.72598531 both 58 D2_stop
+1201  38.15573248 -085.73732946 both 59 _stop
+1201  38.15586922 -085.73708793 both 60 _stop
+1201  38.15614271 -085.73699325 both 61 _stop
+1201  38.15642532 -085.73717488 both 62 _stop
+1201  38.15652256 -085.73758258 both 63 _stop
+1201  38.17237052 -085.72430732 both 64 F1_stop
+1201  38.17482958 -085.72438217 both 65 MIL_stop
+1201  38.17538582 -085.72455829 both 66 MIL_stop
+1201  38.17560686 -085.72347068 both 67 MIL_stop
+1201  38.17986701 -085.72490521 both 68 MIL_stop
+1201  38.18146549 -085.72425211 both 69 _stop
+1201  38.18380555 -085.72504887 both 70 _stop
+1201  38.18310333 -085.72481218 both 71 _stop
+1201  38.18266310 -085.72872414 both 72 E4_stop
+1201  38.18087648 -085.73015138 both 73 D4_stop
+1201  38.18353143 -085.73108191 both 74 D5_stop
+1201  38.18339906 -085.73071233 both 75 D5_stop
+1201  38.18006871 -085.73366229 both 76 P_stop
+1201  38.18384092 -085.73274901 both 77 P_stop
+1201  38.18342717 -085.73285084 both 78 P_stop
+1201  38.18515680 -085.73753543 both 79 H_stop
+1201  38.18484474 -085.73755474 both 80 H_stop
+1201  38.17767670 -085.73324819 both 81 H_stop
+1201  38.17942437 -085.73360265 both 82 H_stop
+1201  38.18451021 -085.73737921 both 83 H_stop
+1201  38.18351458 -085.73663523 both 84 H_stop
+1201  38.18286969 -085.73616102 both 85 H_stop
+1201  38.18144852 -085.73509692 both 86 H_stop
+1201  38.17998017 -085.73401140 both 87 H_stop
+1201  38.18493237 -085.73977059 both 88 H_start
+1201  38.18474730 -085.73872517 both 89 K_stop
+1201  38.18670202 -085.73448621 both 90 K_stop
+1201  38.18539126 -085.73733585 both 91 K_stop
+1201  38.18632075 -085.73203707 both 92 K_stop
+1201  38.18641823 -085.73266529 both 93 K_stop
+1201  38.18652873 -085.73338106 both 94 K_stop
+1201  38.18657847 -085.73368482 both 95 K_stop
+1201  38.18556553 -085.73333998 both 96 K_stop
+1201  38.18660340 -085.73385103 both 97 N_stop
+1201  38.17925376 -085.74120803 both 98 M_stop
+1201  38.18309371 -085.74027834 both 99 J_stop
+1201  38.18435653 -085.74169068 both 100 J_stop
+1201  38.18431524 -085.74204296 both 101 J_stop
+1201  38.18393631 -085.74230562 both 102 J_stop
+1201  38.18307159 -085.74260535 both 103 J_stop
+1201  38.18269509 -085.74326046 both 104 J_stop
+1201  38.18247891 -085.74346749 both 105 J_stop
+1201  38.18218014 -085.74343968 both 106 J_stop
+1201  38.18159475 -085.74301324 both 107 J_stop
+1201  38.18108824 -085.74189646 both 108 J_stop
+1201  38.18215611 -085.73958925 both 109 J_stop
+1201  38.18085349 -085.74262248 both 110 J_stop
+1201  38.18095106 -085.74232104 both 111 J_stop
+1201  38.17642281 -085.74403525 both 112 B6_stop
+1201  38.17612593 -085.74446439 both 113 B6_stop
+1201  38.17387154 -085.74325176 both 114 B5_stop
+1201  38.17358572 -085.74350357 both 115 B5_stop
+1201  38.16848403 -085.74068344 both 116 B4_stop
+1201  38.16874018 -085.74157840 both 117 B4_stop
+1201  38.16897493 -085.74212372 both 118 B4_stop
+1201  38.16608035 -085.74070061 both 119 B3_stop
+1201  38.16639287 -085.74134170 both 120 B3_stop
+1201  38.16993489 -085.72439231 both 121 E_stop
+1201  38.17002079 -085.72405086 both 122 E_stop
+1201  38.17019748 -085.72389069 both 123 E_stop
+1201  38.17047561 -085.72386708 both 124 E_stop
+1201  38.17078092 -085.72408379 both 125 E_stop
+1201  38.18173098 -085.72782187 both 126 E_stop
+1201  38.17942461 -085.72702466 both 127 E_stop
+1201  38.17812032 -085.72658420 both 128 E_stop
+1201  38.17963746 -085.72602905 both 129 E_stop
+1201  38.18226795 -085.72791128 both 130 E_stop
+1201  38.18321959 -085.72780398 both 131 E_stop
+1201  38.18285146 -085.72782643 both 132 E_stop
+1201  38.18245762 -085.72788169 both 133 E_stop
+1201  38.18388621 -085.72801107 both 134 E_stop
+1201  38.18633209 -085.72884800 both 135 E_stop
+1201  38.18650077 -085.72895679 both 136 E_stop
+1201  38.18660269 -085.72912817 both 137 E_stop
+1201  38.18664603 -085.72939792 both 138 E_stop
+1201  38.18651015 -085.73004471 both 139 E_stop
+1201  38.18698999 -085.73236497 both 140 D_stop
+1201  38.18685870 -085.73265397 both 141 D_stop
+1201  38.18659640 -085.73272622 both 142 D_stop
+1201  38.16473655 -085.72525972 both 143 D_stop
+1201  38.16554156 -085.72553254 both 144 D_stop
+1201  38.16565172 -085.72497695 both 145 D_stop
+1201  38.16454327 -085.72512439 both 146 D_stop
+1201  38.16444175 -085.72488850 both 147 D_stop
+1201  38.16445152 -085.72459052 both 148 D_stop
+1201  38.16957567 -085.73139327 both 149 UPS6_stop
+1201  38.16943627 -085.73153631 both 150 UPS6_stop
+1201  38.16924885 -085.73157505 both 151 UPS6_stop
+1201  38.16906494 -085.73146777 both 152 UPS6_stop
+1201  38.16820385 -085.72863983 both 153 UPS6_stop
+1201  38.16805157 -085.72839399 both 154 UPS6_stop
+1201  38.16810428 -085.72790728 both 155 UPS6_stop
+1201  38.16839322 -085.72766144 both 156 UPS6_stop
+1201  38.16998165 -085.73183258 both 157 UPS6_stop
+1201  38.17021359 -085.73183407 both 158 UPS6_stop
+1201  38.17037172 -085.73166421 both 159 UPS6_stop
+1201  38.17041155 -085.73133940 both 160 UPS6_stop
+1201  38.16963302 -085.72878665 both 161 UPS6_stop
+1201  38.16951686 -085.72825303 both 162 UPS6_stop
+1201  38.16893140 -085.72822327 both 163 UPS6_stop
+1201  38.16843232 -085.72652040 both 164 UPS6_start
+1201  38.17085092 -085.72734544 both 165 UPS6_start
+1201  38.16868394 -085.72792560 both 166 UPS6_stop
+1201  38.16842664 -085.72727660 both 167 UPS6_stop
+1201  38.16979567 -085.73158314 both 168 UPS6_start
+1201  38.16962486 -085.73101929 both 169 UPS6_start
+1201  38.16874163 -085.72811152 both 170 UPS6_start
+1201  38.17000882 -085.72705863 both 171 UPS4_stop
+1201  38.17158842 -085.73251239 both 172 UPS4_start
+1201  38.17068862 -085.72955590 both 173 UPS4_start
+1201  38.17036232 -085.72824671 both 174 UPS4_start
+1201  38.17289343 -085.73646832 both 175 UPS3_start
+1201  38.17439867 -085.74145774 both 176 UPS3_start
+1201  38.17002300 -085.73585582 both 177 UPS5_start
+1201  38.16714237 -085.73514973 both 178 UPS7_start
+1201  38.16859629 -085.73991612 both 179 UPS7_start
+1201  38.16072289 -085.73273449 both 180 UPS10_stop
+1201  38.15970408 -085.73413653 both 181 UPS10_stop
+1201  38.16331811 -085.73634256 both 182 UPS11_stop
+1201  38.16364781 -085.73745371 both 183 UPS11_stop
+1201  38.15930832 -085.73603172 both 184 UPS11_start
+1201  38.16154696 -085.73676805 both 185 UPS11_start
+1201  38.15886854 -085.73704823 both 186 B_stop
+1201  38.15868624 -085.73726766 both 187 B_stop
+1201  38.16265709 -085.72990273 both 188 UPS9_stop
+1201  38.16316073 -085.73155527 both 189 UPS9_stop
+1201  38.16265358 -085.72942450 both 190 UPS9_stop
+1201  38.16179616 -085.72650757 both 191 UPS9_start
+1201  38.18053613 -085.74407008 both 192 C_stop
+1201  38.15912267 -085.73700592 both 193 C_start
+1201  38.16546660 -085.73910043 both 194 C_start
+1201  38.16860197 -085.74013651 both 195 C_start
+1201  38.17163561 -085.74113842 both 196 C_start
+1201  38.17428175 -085.74200907 both 197 C_start
+1201  38.17459705 -085.74211282 both 198 C_start
+1201  38.17664715 -085.74279073 both 199 C_start
+1201  38.17777286 -085.74315900 both 200 C_start
+1201  38.17813519 -085.74327887 both 201 C_start
+1201  38.17320811 -085.72815022 both 202 C_start
+1201  38.17301612 -085.72749543 both 203 C_start
+1201  38.17361255 -085.72828726 both 204 C_start
+1201  38.17908063 -085.74359019 both 205 C_start
+1201  38.17999997 -085.74389498 both 206 C_start
+1201  38.18039450 -085.74402338 both 207 C_start
+1201  38.17992835 -085.74250525 both 208 C_start
+1201  38.17960477 -085.74144251 both 209 C_start
+1201  38.18022705 -085.74185821 both 210 C_start
+1201  38.17582986 -085.72904477 both 211 C_start
+1201  38.18088792 -085.73077460 both 212 C_start
+1201  38.18366380 -085.73172421 both 213 C_start
+1201  38.15799653 -085.74064900 both 214 A_stop
+1201  38.15807578 -085.74026244 both 215 A_stop
+1201  38.15801879 -085.74097227 both 216 A_stop
+1201  38.15814413 -085.74119275 both 217 A_stop
+1201  38.15835381 -085.74133576 both 218 A_stop
+1201  38.17857153 -085.74800179 both 219 A_stop
+1201  38.17631063 -085.74725926 both 220 A_stop
+1201  38.17582450 -085.74709659 both 221 A_stop
+1201  38.17545486 -085.74697493 both 222 A_stop
+1201  38.17279205 -085.74609587 both 223 A_stop
+1201  38.16858745 -085.74470982 both 224 A_stop
+1201  38.16594161 -085.74384117 both 225 A_stop
+1201  38.16283870 -085.74281610 both 226 A_stop
+1201  38.16302931 -085.74189576 both 227 A_stop
+1201  38.16612716 -085.74290791 both 228 A_stop
+1201  38.16877581 -085.74378904 both 229 A_stop
+1201  38.17565025 -085.74605585 both 230 A_stop
+1201  38.17915776 -085.74771439 both 231 F_start
+1201  38.17900285 -085.74718122 both 232 F_start
+1201  38.17864515 -085.74602707 both 233 F_start
+1201  38.17829964 -085.74489196 both 234 F_start
+1201  38.17810087 -085.74423749 both 235 F_start
+1201  38.17697439 -085.74386144 both 236 F_start
+1201  38.17648286 -085.74370211 both 237 F_start
+1201  38.17409059 -085.74291054 both 238 F_start
+1201  38.16894682 -085.74121009 both 239 F_start
+1201  38.16858275 -085.74109208 both 240 F_start
+1201  38.16629438 -085.74033729 both 241 F_start
+1201  38.16586715 -085.74019852 both 242 F_start
+1201  38.16353013 -085.73942614 both 243 F_start
+1201  38.15936902 -085.73805249 both 244 F_start
+1201  38.15926338 -085.73860578 both 245 F_start
+1201  38.17265817 -085.72634203 both 246 F_start
+1201  38.17231598 -085.72521613 both 247 F_start
+1201  38.17242160 -085.72626218 both 248 F_start
+1201  38.17210926 -085.72453725 both 249 F_start
+1201  38.16973673 -085.72534465 both 250 F_start
+1201  38.16586063 -085.72402036 both 251 F_start
+1201  38.16465749 -085.72361094 both 252 F_start
+1201  38.17381451 -085.72360980 both 253 G_stop
+1201  38.17408973 -085.72367102 both 254 G_stop
+1201  38.17425650 -085.72389435 both 255 G_stop
+1201  38.18090289 -085.74569130 both 256 G_stop
+1201  38.18072334 -085.74510246 both 257 G_stop
+1201  38.18048492 -085.74430964 both 258 G_stop
+1201  38.18015225 -085.74491168 both 259 G_stop
+1201  38.17563038 -085.72839018 both 260 G_stop
+1201  38.15858287 -085.73779525 both 261 B_stop
+1201  38.15847289 -085.73833224 both 262 B_stop
+1201  38.18458266 -085.74637366 both 263 B_stop
+1201  38.18415369 -085.74623309 both 264 B_stop
+1201  38.18404129 -085.74678897 both 265 B_stop
+1201  38.18471851 -085.74646784 both 266 B_stop
+1201  38.18484053 -085.74668000 both 267 B_stop
+1201  38.18484867 -085.74702669 both 268 B_stop
+1201  38.18684865 -085.74865644 both 269 _stop
+1201  38.18698141 -085.74833602 both 270 _stop
+1201  38.18693748 -085.74802927 both 271 _stop
+1201  38.18674420 -085.74780572 both 272 _stop
+1201  38.18643281 -085.74777840 both 273 _stop
+1202 0 1 twoway runway 11/29
+1204 departure 11,29
+1204 arrival 11,29
+1204 ils 11,29
+1202 1 3 twoway runway 11/29
+1204 departure 11,17L,29,35R
+1204 arrival 11,17L,29,35R
+1204 ils 11,29
+1202 3 4 twoway runway 11/29
+1204 departure 11,17L,29,35R
+1204 arrival 11,17L,29,35R
+1204 ils 11,29
+1202 4 6 twoway runway 11/29
+1204 departure 11,29
+1204 arrival 11,29
+1204 ils 11,29
+1202 6 7 twoway runway 11/29
+1204 departure 11,29
+1204 arrival 11,29
+1204 ils 11,29
+1202 7 8 twoway runway 11/29
+1204 departure 11,29
+1204 arrival 11,29
+1204 ils 11,29
+1202 8 17 twoway runway 11/29
+1204 departure 11,29
+1204 arrival 11,29
+1204 ils 11,29
+1202 17 205 twoway runway 11/29
+1204 departure 11,29
+1204 arrival 11,29
+1204 ils 11,29
+1202 205 18 twoway runway 11/29
+1204 departure 11,29
+1204 arrival 11,29
+1204 ils 11,29
+1202 18 20 twoway runway 11/29
+1204 departure 11,17R,29,35L
+1204 arrival 11,17R,29,35L
+1204 ils 11,29
+1202 20 21 twoway runway 11/29
+1204 departure 11,17R,29,35L
+1204 arrival 11,17R,29,35L
+1204 ils 11,29
+1202 29 30 twoway runway 17L/35R
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1204 ils 17L,35R
+1202 30 31 twoway runway 17L/35R
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1204 ils 17L,35R
+1202 31 32 twoway runway 17L/35R
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1204 ils 17L,35R
+1202 32 33 twoway runway 17L/35R
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1204 ils 17L,35R
+1202 33 34 twoway runway 17L/35R
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1204 ils 17L,35R
+1202 34 35 twoway runway 17L/35R
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1204 ils 17L,35R
+1202 35 37 twoway runway 17L/35R
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1204 ils 17L,35R
+1202 37 3 twoway runway 17L/35R
+1204 departure 11,17L,29,35R
+1204 arrival 11,17L,29,35R
+1204 ils 17L,35R
+1202 3 246 twoway runway 17L/35R
+1204 departure 11,17L,29,35R
+1204 arrival 11,17L,29,35R
+1204 ils 17L,35R
+1202 246 248 twoway runway 17L/35R
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1204 ils 17L,35R
+1202 248 250 twoway runway 17L/35R
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1204 ils 17L,35R
+1202 250 251 twoway runway 17L/35R
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1204 ils 17L,35R
+1202 251 252 twoway runway 17L/35R
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1204 ils 17L,35R
+1202 252 28 twoway runway 17L/35R
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1204 ils 17L,35R
+1202 42 43 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 43 44 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 44 45 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 45 46 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 46 48 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 48 49 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 49 50 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 50 51 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 51 52 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 52 53 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 53 54 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 54 56 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 56 233 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 233 20 twoway runway 17R/35L
+1204 departure 11,17L,17R,29,35L,35R
+1204 arrival 11,17L,17R,29,35L,35R
+1204 ils 17R,35L
+1202 20 23 twoway runway 17R/35L
+1204 departure 11,17L,17R,29,35L,35R
+1204 arrival 11,17L,17R,29,35L,35R
+1204 ils 17R,35L
+1202 23 24 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 24 25 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 25 26 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 26 27 twoway runway 17R/35L
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1204 ils 17R,35L
+1202 57 248 twoway taxiway_F D3
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 165 57 twoway taxiway_F D3
+1202 58 250 twoway taxiway_F D2
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 164 58 twoway taxiway_F D2
+1202 144 145 twoway taxiway_F D1
+1202 145 251 twoway taxiway_F D1
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 59 42 twoway taxiway_F 
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 60 59 twoway taxiway_F 
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 61 60 twoway taxiway_F 
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 62 61 twoway taxiway_F 
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 63 62 twoway taxiway_F 
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 43 63 twoway taxiway_F 
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 64 0 twoway taxiway_D F1
+1204 departure 11,29
+1204 arrival 11,29
+1202 249 64 twoway taxiway_D F1
+1202 35 36 twoway taxiway_F E3
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 36 128 twoway taxiway_F E3
+1202 129 66 twoway taxiway_D MIL
+1202 65 41 twoway taxiway_D 
+1202 66 65 twoway taxiway_D 
+1202 67 66 twoway taxiway_D 
+1202 68 67 twoway taxiway_D 
+1202 127 129 twoway taxiway_D 
+1202 129 68 twoway taxiway_D 
+1202 133 71 twoway taxiway_B 
+1202 70 71 twoway taxiway_B 
+1202 71 69 twoway taxiway_B 
+1202 131 70 twoway taxiway_B 
+1202 72 132 twoway taxiway_F E4
+1202 33 72 twoway taxiway_F E4
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 12 13 twoway taxiway_C G2
+1202 13 6 twoway taxiway_C G2
+1204 departure 11,29
+1204 arrival 11,29
+1202 73 34 twoway taxiway_F D4
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 212 73 twoway taxiway_F D4
+1202 75 33 twoway taxiway_F D5
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 74 75 twoway taxiway_F D5
+1202 75 32 twoway taxiway_F D5
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 213 74 twoway taxiway_F D5
+1202 78 213 twoway taxiway_F D5
+1202 96 16 twoway taxiway_D P
+1202 76 87 twoway taxiway_C P
+1202 76 82 twoway taxiway_C P
+1202 77 78 twoway taxiway_D P
+1202 78 76 twoway taxiway_C P
+1202 95 96 twoway taxiway_D P
+1202 96 77 twoway taxiway_D P
+1202 79 91 twoway taxiway_D H
+1202 80 79 twoway taxiway_F H
+1202 83 80 twoway taxiway_F H
+1202 81 11 twoway taxiway_C H
+1202 11 14 twoway taxiway_C H
+1202 14 7 twoway taxiway_C H
+1204 departure 11,29
+1204 arrival 11,29
+1202 82 81 twoway taxiway_C H
+1202 83 84 twoway taxiway_D H
+1202 84 85 twoway taxiway_D H
+1202 85 86 twoway taxiway_F H
+1202 86 87 twoway taxiway_C H
+1202 87 82 twoway taxiway_C H
+1202 88 89 twoway taxiway_D H
+1202 89 83 twoway taxiway_D H
+1202 141 94 twoway taxiway_F D
+1202 90 91 twoway taxiway_D K
+1202 91 89 twoway taxiway_D K
+1202 92 93 twoway taxiway_F K
+1202 93 94 twoway taxiway_F K
+1202 94 95 twoway taxiway_F K
+1202 95 97 twoway taxiway_F K
+1202 97 90 twoway taxiway_D K
+1202 31 92 twoway taxiway_F K
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 8 9 twoway taxiway_F N
+1204 departure 11,29
+1204 arrival 11,29
+1202 9 10 twoway taxiway_F N
+1202 10 86 twoway taxiway_F N
+1202 86 15 twoway taxiway_F N
+1202 15 16 twoway taxiway_F N
+1202 16 97 twoway taxiway_F N
+1202 98 17 twoway taxiway_F M
+1204 departure 11,29
+1204 arrival 11,29
+1202 210 209 twoway taxiway_F M
+1202 209 98 twoway taxiway_F M
+1202 111 210 twoway taxiway_F M
+1202 208 210 twoway taxiway_F L
+1202 210 85 twoway taxiway_F L
+1202 85 15 twoway taxiway_F L
+1202 109 99 twoway taxiway_D J
+1202 101 100 twoway taxiway_D M
+1202 102 101 twoway taxiway_D M
+1202 103 102 twoway taxiway_D M
+1202 104 103 twoway taxiway_D M
+1202 105 104 twoway taxiway_D M
+1202 106 105 twoway taxiway_D M
+1202 107 106 twoway taxiway_D M
+1202 111 107 twoway taxiway_D M
+1202 108 109 twoway taxiway_D J
+1202 109 84 twoway taxiway_D J
+1202 110 111 twoway taxiway_F J
+1202 111 108 twoway taxiway_D J
+1202 192 110 twoway taxiway_F J
+1202 258 192 twoway taxiway_F J
+1202 259 258 twoway taxiway_F J
+1202 113 54 twoway taxiway_F B6
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 112 236 twoway taxiway_F B6
+1202 112 237 twoway taxiway_F B6
+1202 237 199 twoway taxiway_F B6
+1202 113 112 twoway taxiway_F B6
+1202 56 113 twoway taxiway_F B6
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 53 115 twoway taxiway_F B5
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 238 197 twoway taxiway_F B5
+1202 197 176 twoway taxiway_F B5
+1202 114 238 twoway taxiway_F B5
+1202 115 114 twoway taxiway_F B5
+1202 52 115 twoway taxiway_F B5
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 244 245 twoway taxiway_F B1
+1202 245 45 twoway taxiway_F B1
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 242 194 twoway taxiway_F B3
+1202 116 195 twoway taxiway_F B4
+1202 240 116 twoway taxiway_F B4
+1202 118 51 twoway taxiway_F B4
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 117 239 twoway taxiway_F B4
+1202 117 240 twoway taxiway_F B4
+1202 118 117 twoway taxiway_F B4
+1202 50 118 twoway taxiway_F B4
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 119 241 twoway taxiway_F B3
+1202 120 49 twoway taxiway_F B3
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 119 242 twoway taxiway_F B3
+1202 120 119 twoway taxiway_F B3
+1202 48 120 twoway taxiway_F B3
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 121 250 twoway taxiway_F E
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 122 121 twoway taxiway_F E
+1202 123 122 twoway taxiway_F E
+1202 124 123 twoway taxiway_F E
+1202 125 124 twoway taxiway_F E
+1202 126 127 twoway taxiway_F E
+1202 127 128 twoway taxiway_F E
+1202 128 39 twoway taxiway_F E
+1202 39 40 twoway taxiway_F E
+1202 40 1 twoway taxiway_F E
+1204 departure 11,29
+1204 arrival 11,29
+1202 1 2 twoway taxiway_F E
+1204 departure 11,29
+1204 arrival 11,29
+1202 2 249 twoway taxiway_F E
+1202 249 125 twoway taxiway_F E
+1202 130 126 twoway taxiway_F E
+1202 131 132 twoway taxiway_F E
+1202 132 133 twoway taxiway_F E
+1202 133 130 twoway taxiway_F E
+1202 134 131 twoway taxiway_F E
+1202 135 134 twoway taxiway_F E
+1202 136 135 twoway taxiway_F E
+1202 137 136 twoway taxiway_F E
+1202 138 137 twoway taxiway_F E
+1202 139 138 twoway taxiway_F E
+1202 31 139 twoway taxiway_F E
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 140 30 twoway taxiway_F D
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 141 140 twoway taxiway_F D
+1202 142 141 twoway taxiway_F D
+1202 143 144 twoway taxiway_F D
+1202 144 164 twoway taxiway_F D
+1202 164 171 twoway taxiway_F D
+1202 171 165 twoway taxiway_F D
+1202 165 202 twoway taxiway_F D
+1202 202 204 twoway taxiway_F D
+1202 204 4 twoway taxiway_F D
+1204 departure 11,29
+1204 arrival 11,29
+1202 4 5 twoway taxiway_F D
+1204 departure 11,29
+1204 arrival 11,29
+1202 5 211 twoway taxiway_F D
+1202 211 212 twoway taxiway_F D
+1202 212 213 twoway taxiway_F D
+1202 213 93 twoway taxiway_F D
+1202 93 142 twoway taxiway_F D
+1202 146 143 twoway taxiway_F D
+1202 147 146 twoway taxiway_F D
+1202 148 147 twoway taxiway_F D
+1202 252 148 twoway taxiway_F D
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 149 169 twoway taxiway_E UPS6
+1202 150 149 twoway taxiway_E UPS6
+1202 151 150 twoway taxiway_E UPS6
+1202 152 151 twoway taxiway_E UPS6
+1202 153 152 twoway taxiway_E UPS6
+1202 154 153 twoway taxiway_E UPS6
+1202 155 154 twoway taxiway_E UPS6
+1202 156 155 twoway taxiway_E UPS6
+1202 167 156 twoway taxiway_E UPS6
+1202 157 168 twoway taxiway_E UPS6
+1202 158 157 twoway taxiway_E UPS6
+1202 159 158 twoway taxiway_E UPS6
+1202 160 159 twoway taxiway_E UPS6
+1202 161 160 twoway taxiway_E UPS6
+1202 162 161 twoway taxiway_E UPS6
+1202 163 162 twoway taxiway_E UPS6
+1202 170 163 twoway taxiway_E UPS6
+1202 164 167 twoway taxiway_E UPS6
+1202 166 167 twoway taxiway_E UPS6
+1202 168 169 twoway taxiway_E UPS6
+1202 169 170 twoway taxiway_E UPS6
+1202 170 166 twoway taxiway_E UPS6
+1202 172 173 twoway taxiway_F UPS4
+1202 173 174 twoway taxiway_F UPS4
+1202 174 171 twoway taxiway_F UPS4
+1202 175 176 twoway taxiway_E UPS3
+1202 176 198 twoway taxiway_F UPS3
+1202 177 196 twoway taxiway_E UPS5
+1202 178 179 twoway taxiway_E UPS7
+1202 179 195 twoway taxiway_E UPS7
+1202 180 189 twoway taxiway_F UPS10
+1202 181 180 twoway taxiway_F UPS10
+1202 193 184 twoway taxiway_F UPS10
+1202 184 181 twoway taxiway_F UPS10
+1202 185 182 twoway taxiway_F UPS11
+1202 184 185 twoway taxiway_F UPS11
+1202 185 183 twoway taxiway_F UPS11
+1202 186 193 twoway taxiway_F B
+1202 187 186 twoway taxiway_F B
+1202 261 187 twoway taxiway_F B
+1202 188 189 twoway taxiway_F UPS9
+1202 189 194 twoway taxiway_F UPS9
+1202 190 188 twoway taxiway_F UPS9
+1202 191 190 twoway taxiway_F UPS9
+1202 193 194 twoway taxiway_F C
+1202 194 195 twoway taxiway_F C
+1202 195 196 twoway taxiway_F C
+1202 196 197 twoway taxiway_F C
+1202 197 198 twoway taxiway_F C
+1202 198 199 twoway taxiway_F C
+1202 199 200 twoway taxiway_F C
+1202 200 201 twoway taxiway_F C
+1202 201 205 twoway taxiway_F C
+1204 departure 11,29
+1204 arrival 11,29
+1202 205 206 twoway taxiway_F C
+1204 departure 11,29
+1204 arrival 11,29
+1202 206 207 twoway taxiway_F C
+1202 207 192 twoway taxiway_F C
+1202 46 47 twoway taxiway_F B2
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 47 243 twoway taxiway_F B2
+1202 226 227 twoway taxiway_F A2
+1202 227 46 twoway taxiway_F A2
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 225 228 twoway taxiway_F A3
+1202 228 48 twoway taxiway_F A3
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 224 229 twoway taxiway_F A4
+1202 229 50 twoway taxiway_F A4
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 53 55 twoway taxiway_F A5
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 55 223 twoway taxiway_F A5
+1202 222 230 twoway taxiway_F A6
+1202 230 56 twoway taxiway_F A6
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 214 215 twoway taxiway_F A
+1202 215 44 twoway taxiway_F A
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 216 214 twoway taxiway_F A
+1202 217 216 twoway taxiway_F A
+1202 218 217 twoway taxiway_F A
+1202 219 220 twoway taxiway_F A
+1202 220 221 twoway taxiway_F A
+1202 221 222 twoway taxiway_F A
+1202 222 223 twoway taxiway_F A
+1202 223 224 twoway taxiway_F A
+1202 224 225 twoway taxiway_F A
+1202 225 226 twoway taxiway_F A
+1202 226 218 twoway taxiway_F A
+1202 231 219 twoway taxiway_F A
+1202 21 22 twoway taxiway_F F3
+1204 departure 11,29
+1204 arrival 11,29
+1202 22 231 twoway taxiway_F F3
+1202 231 232 twoway taxiway_F F
+1202 232 233 twoway taxiway_F F
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 233 234 twoway taxiway_F F
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 234 235 twoway taxiway_F F
+1202 235 200 twoway taxiway_F F
+1202 200 202 twoway taxiway_F F
+1202 202 203 twoway taxiway_F F
+1202 203 246 twoway taxiway_F F
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 246 247 twoway taxiway_F F
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 247 249 twoway taxiway_F F
+1202 253 0 twoway taxiway_D G1
+1204 departure 11,29
+1204 arrival 11,29
+1202 254 253 twoway taxiway_D G
+1202 255 254 twoway taxiway_D G
+1202 256 257 twoway taxiway_F G
+1202 257 258 twoway taxiway_F G
+1202 258 207 twoway taxiway_F G
+1202 207 208 twoway taxiway_F G
+1202 208 209 twoway taxiway_F G
+1202 209 10 twoway taxiway_C G
+1202 10 11 twoway taxiway_C G
+1202 11 12 twoway taxiway_C G
+1202 12 211 twoway taxiway_C G
+1202 211 260 twoway taxiway_F G
+1202 260 37 twoway taxiway_F G
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 37 38 twoway taxiway_F G
+1204 departure 17L,35R
+1204 arrival 17L,35R
+1202 38 39 twoway taxiway_F G
+1202 39 41 twoway taxiway_F G
+1202 41 255 twoway taxiway_D G
+1202 21 23 twoway taxiway_F G
+1204 departure 11,17R,29,35L
+1204 arrival 11,17R,29,35L
+1202 23 256 twoway taxiway_F G
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 264 265 twoway taxiway_F B7
+1202 265 24 twoway taxiway_F B7
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 261 262 twoway taxiway_F B
+1202 262 44 twoway taxiway_F B
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 263 264 twoway taxiway_F B
+1202 264 257 twoway taxiway_F B
+1202 257 259 twoway taxiway_F B
+1202 259 18 twoway taxiway_F B
+1204 departure 11,29
+1204 arrival 11,29
+1202 18 19 twoway taxiway_F B
+1204 departure 11,29
+1204 arrival 11,29
+1202 19 235 twoway taxiway_F B
+1202 235 236 twoway taxiway_F B
+1202 236 237 twoway taxiway_F B
+1202 237 238 twoway taxiway_F B
+1202 238 239 twoway taxiway_F B
+1202 239 240 twoway taxiway_F B
+1202 240 241 twoway taxiway_F B
+1202 241 242 twoway taxiway_F B
+1202 242 243 twoway taxiway_F B
+1202 243 244 twoway taxiway_F B
+1202 244 261 twoway taxiway_F B
+1202 266 263 twoway taxiway_F B
+1202 267 266 twoway taxiway_F B
+1202 268 267 twoway taxiway_F B
+1202 25 268 twoway taxiway_F B
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 269 27 twoway taxiway_F 
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 270 269 twoway taxiway_F 
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 271 270 twoway taxiway_F 
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 272 271 twoway taxiway_F 
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 273 272 twoway taxiway_F 
+1204 departure 17R,35L
+1204 arrival 17R,35L
+1202 26 273 twoway taxiway_F 
+1204 departure 17R,35L
+1204 arrival 17R,35L
 99
