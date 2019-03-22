@@ -1529,237 +1529,237 @@ I
 20  38.16505940 -085.72423841 164.9100 0 2 {@Y}D{^r}
 20  38.16782925 -085.72677119 345.3100 0 2 {@Y,^lu}UPS6
 20  38.16805998 -085.72582774 198.9600 0 2 {@Y,^lu}D{@L}D3{@Y}D{^rd}
-1300  38.17241436 -085.73219738  21.34 gate heavy|jets|turboprops UPS Ramp 4
+1300  38.17238416 -085.73221257  21.34 gate heavy|jets|turboprops E13
 1301 D cargo ups
-1300  38.17223526 -085.73160805  21.34 gate heavy|jets|turboprops UPS Ramp 4
+1300  38.17220506 -085.73162324  21.34 gate heavy|jets|turboprops E11
 1301 D cargo ups
-1300  38.17205863 -085.73102748  21.34 gate heavy|jets|turboprops UPS Ramp 4
+1300  38.17202843 -085.73104267  21.34 gate heavy|jets|turboprops E9
 1301 D cargo ups
-1300  38.17188150 -085.73044454  21.34 gate heavy|jets|turboprops UPS Ramp 4
+1300  38.17185130 -085.73045974  21.34 gate heavy|jets|turboprops E7
 1301 D cargo ups
-1300  38.17170363 -085.72985967  21.34 gate heavy|jets|turboprops UPS Ramp 4
+1300  38.17167343 -085.72987486  21.34 gate heavy|jets|turboprops E5
 1301 D cargo ups
-1300  38.16938401 -085.72879274 -140.60 gate heavy|jets|turboprops UPS Ramp 6
+1300  38.16938401 -085.72879274 -140.60 gate heavy|jets|turboprops RAMP 6-3
 1301 D cargo ups
-1300  38.16998306 -085.73079628 -140.60 gate heavy|jets|turboprops UPS Ramp 6
+1300  38.16998306 -085.73079628 -140.60 gate heavy|jets|turboprops RAMP 6-9
 1301 D cargo ups
-1300  38.16958722 -085.72947088 -140.60 gate heavy|jets|turboprops UPS Ramp 6
+1300  38.16958722 -085.72947088 -140.60 gate heavy|jets|turboprops RAMP 6-5
 1301 D cargo ups
-1300  38.17018626 -085.73147442 -140.60 gate heavy|jets|turboprops UPS Ramp 6
+1300  38.17018626 -085.73147442 -140.60 gate heavy|jets|turboprops RAMP 6-11
 1301 D cargo ups
-1300  38.16979462 -085.73015204 -140.60 gate heavy|jets|turboprops UPS Ramp 6
+1300  38.16979462 -085.73015204 -140.60 gate heavy|jets|turboprops RAMP 6-7
 1301 D cargo ups
-1300  38.16879411 -085.72980972  -6.98 gate heavy|jets|turboprops UPS Ramp 6
+1300  38.16879411 -085.72980972  -6.98 gate heavy|jets|turboprops RAMP 6-8
 1301 D cargo ups
-1300  38.16843793 -085.72855731  -6.98 gate heavy|jets|turboprops UPS Ramp 6
+1300  38.16843793 -085.72855731  -6.98 gate heavy|jets|turboprops RAMP 6-4
 1301 D cargo ups
-1300  38.16896664 -085.73037034  -6.98 gate heavy|jets|turboprops UPS Ramp 6
+1300  38.16896664 -085.73037034  -6.98 gate heavy|jets|turboprops RAMP 6-10
 1301 D cargo ups
-1300  38.16863068 -085.72918478  -6.98 gate heavy|jets|turboprops UPS Ramp 6
+1300  38.16863068 -085.72918478  -6.98 gate heavy|jets|turboprops RAMP 6-6
 1301 D cargo ups
-1300  38.16915938 -085.73099781  -6.98 gate heavy|jets|turboprops UPS Ramp 6
+1300  38.16915938 -085.73099781  -6.98 gate heavy|jets|turboprops RAMP 6-12
 1301 D cargo ups
-1300  38.16935482 -085.73162700  -6.98 gate heavy|jets|turboprops UPS Ramp 6
+1300  38.16935482 -085.73162700  -6.98 gate heavy|jets|turboprops RAMP 6-14
 1301 D cargo ups
-1300  38.17038361 -085.73212573 -140.60 gate heavy|jets|turboprops UPS Ramp 6
+1300  38.17038361 -085.73212573 -140.60 gate heavy|jets|turboprops RAMP 6-13
 1301 D cargo ups
-1300  38.17152563 -085.72927422  21.29 gate heavy|jets|turboprops UPS Ramp 4
+1300  38.17149543 -085.72928941  21.29 gate heavy|jets|turboprops E3
 1301 D cargo ups
-1300  38.17273072 -085.72981759 -179.75 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17277335 -085.72982814 -179.75 gate heavy|jets|turboprops E2
 1301 D cargo ups
-1300  38.17291210 -085.73040907 178.71 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17295472 -085.73041962 178.71 gate heavy|jets|turboprops E4
 1301 D cargo ups
-1300  38.17309708 -085.73101446 178.50 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17313970 -085.73102501 178.50 gate heavy|jets|turboprops E6
 1301 D cargo ups
-1300  38.17328603 -085.73162818 175.96 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17332865 -085.73163872 175.96 gate heavy|jets|turboprops E8
 1301 D cargo ups
-1300  38.17346401 -085.73223876 173.93 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17350663 -085.73224931 173.93 gate heavy|jets|turboprops E10
 1301 D cargo ups
-1300  38.17366908 -085.73288317 172.18 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17371171 -085.73289372 172.18 gate heavy|jets|turboprops E12
 1301 D cargo ups
-1300  38.17385924 -085.73353104 170.28 gate heavy|jets|turboprops UPS Ramp 2
+1300  38.17390186 -085.73354159 170.28 gate heavy|jets|turboprops E14
 1301 D cargo ups
-1300  38.17505436 -085.73740825 159.22 gate heavy|jets|turboprops UPS Ramp 1
+1300  38.17512245 -085.73744879 159.22 gate heavy|jets|turboprops D12
 1301 D cargo ups
-1300  38.17526539 -085.73811679 158.04 gate heavy|jets|turboprops UPS Ramp 1
+1300  38.17533348 -085.73815733 158.04 gate heavy|jets|turboprops D10
 1301 D cargo ups
-1300  38.17549087 -085.73887149 157.46 gate heavy|jets|turboprops UPS Ramp 1
+1300  38.17555896 -085.73891203 157.46 gate heavy|jets|turboprops D8
 1301 D cargo ups
-1300  38.16735334 -085.73842599 -159.51 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16733212 -085.73843623 -159.51 gate heavy|jets|turboprops A2
 1301 D cargo ups
-1300  38.16362989 -085.73144830 232.18 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16362989 -085.73144830 232.18 gate heavy|jets|turboprops RAMP9-23
 1301 E cargo ups
-1300  38.16405528 -085.73282453 232.18 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16405528 -085.73282453 232.18 gate heavy|jets|turboprops RAMP9-19
 1301 E cargo ups
-1300  38.16264275 -085.72604287  20.50 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16261644 -085.72605551  20.50 gate heavy|jets|turboprops RAMP9-39
 1301 D cargo ups
-1300  38.16283512 -085.72667324  20.50 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16280881 -085.72668588  20.50 gate heavy|jets|turboprops RAMP9-37
 1301 D cargo ups
-1300  38.16301311 -085.72725289  20.50 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16298680 -085.72726553  20.50 gate heavy|jets|turboprops RAMP9-35
 1301 D cargo ups
-1300  38.16320554 -085.72788476  20.50 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16317923 -085.72789740  20.50 gate heavy|jets|turboprops RAMP9-33
 1301 D cargo ups
-1300  38.16233793 -085.73047316 -15.74 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16233793 -085.73047316 -15.74 gate heavy|jets|turboprops RAMP9-28
 1301 D cargo ups
-1300  38.16011525 -085.73669993 -72.12 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16011525 -085.73669993 -72.12 gate heavy|jets|turboprops RAMP11-1
 1301 E cargo ups
-1300  38.16224606 -085.73739901 -72.12 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16224606 -085.73739901 -72.12 gate heavy|jets|turboprops RAMP11-7
 1301 E cargo ups
-1300  38.16082369 -085.73693196 -72.12 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16082369 -085.73693196 -72.12 gate heavy|jets|turboprops RAMP11-3
 1301 E cargo ups
-1300  38.16295450 -085.73763105 -72.12 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16295450 -085.73763105 -72.12 gate heavy|jets|turboprops RAMP11-9
 1301 E cargo ups
-1300  38.16147002 -085.73714672 -72.12 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16147002 -085.73714672 -72.12 gate heavy|jets|turboprops RAMP11-5
 1301 E cargo ups
-1300  38.16410157 -085.73616113 -12.30 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16410157 -085.73616113 -12.30 gate heavy|jets|turboprops RAMP9-6
 1301 D cargo ups
-1300  38.16433934 -085.73693256 -12.30 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16433934 -085.73693256 -12.30 gate heavy|jets|turboprops RAMP9-4
 1301 E cargo ups
-1300  38.16459166 -085.73774925 -12.30 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16459166 -085.73774925 -12.30 gate heavy|jets|turboprops RAMP9-2
 1301 E cargo ups
-1300  38.16339292 -085.73672129 -53.46 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16339292 -085.73672129 -53.46 gate heavy|jets|turboprops RAMP11-13
 1301 E cargo ups
-1300  38.16360083 -085.73784582 -72.12 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16360083 -085.73784582 -72.12 gate heavy|jets|turboprops RAMP11-11
 1301 E cargo ups
-1300  38.15896551 -085.73564155  28.06 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.15896551 -085.73564155  28.06 gate heavy|jets|turboprops RAMP11-32
 1301 E cargo ups
-1300  38.15912660 -085.73483685  28.06 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.15912660 -085.73483685  28.06 gate heavy|jets|turboprops RAMP11-34
 1301 E cargo ups
-1300  38.15927994 -085.73406671  28.06 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.15927994 -085.73406671  28.06 gate heavy|jets|turboprops RAMP11-36
 1301 E cargo ups
-1300  38.15961454 -085.73336942  15.72 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.15961454 -085.73336942  15.72 gate heavy|jets|turboprops RAMP11-38
 1301 D cargo ups
-1300  38.16166504 -085.73289850  68.86 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16166504 -085.73289850  68.86 gate heavy|jets|turboprops RAMP11-43
 1301 E cargo ups
-1300  38.16224564 -085.73256462  64.89 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16224564 -085.73256462  64.89 gate heavy|jets|turboprops RAMP11-45
 1301 E cargo ups
-1300  38.16255431 -085.73117704 -15.74 gate heavy|jets|turboprops UPS Ramp 11
+1300  38.16255431 -085.73117704 -15.74 gate heavy|jets|turboprops RAMP9-26
 1301 D cargo ups
-1300  38.16338221 -085.72847657  20.50 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16335591 -085.72848921  20.50 gate heavy|jets|turboprops RAMP9-31
 1301 D cargo ups
-1300  38.16341620 -085.73072905 232.18 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16341620 -085.73072905 232.18 gate heavy|jets|turboprops RAMP9-25
 1301 E cargo ups
-1300  38.16385310 -085.73216007 232.18 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16385310 -085.73216007 232.18 gate heavy|jets|turboprops RAMP9-21
 1301 E cargo ups
-1300  38.16427848 -085.73353630 232.18 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16427848 -085.73353630 232.18 gate heavy|jets|turboprops RAMP9-15
 1301 E cargo ups
-1300  38.16451625 -085.73429539 232.18 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16451625 -085.73429539 232.18 gate heavy|jets|turboprops RAMP9-11
 1301 E cargo ups
-1300  38.16529380 -085.73522981  20.37 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16529380 -085.73522981  20.37 gate heavy|jets|turboprops A9
 1301 D cargo ups
-1300  38.16546735 -085.73581513  20.37 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16546735 -085.73581513  20.37 gate heavy|jets|turboprops A7
 1301 D cargo ups
-1300  38.16564859 -085.73639705  20.37 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16564859 -085.73639705  20.37 gate heavy|jets|turboprops A5
 1301 D cargo ups
-1300  38.16582679 -085.73698096  20.37 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16582679 -085.73698096  20.37 gate heavy|jets|turboprops A3
 1301 D cargo ups
-1300  38.16600560 -085.73756456  20.37 gate heavy|jets|turboprops UPS Ramp 9
+1300  38.16600560 -085.73756456  20.37 gate heavy|jets|turboprops A1
 1301 D cargo ups
-1300  38.16786140 -085.73490447  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16786140 -085.73490447  20.37 gate heavy|jets|turboprops B13
 1301 D cargo ups
-1300  38.16717584 -085.73784645 -159.62 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16715463 -085.73785669 -159.62 gate heavy|jets|turboprops A4
 1301 D cargo ups
-1300  38.16803527 -085.73548918  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16803527 -085.73548918  20.37 gate heavy|jets|turboprops B11
 1301 D cargo ups
-1300  38.16699934 -085.73725703 -159.66 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16697812 -085.73726726 -159.66 gate heavy|jets|turboprops A6
 1301 D cargo ups
-1300  38.16821551 -085.73607087  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16821551 -085.73607087  20.37 gate heavy|jets|turboprops B9
 1301 D cargo ups
-1300  38.16681833 -085.73667387 -159.84 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16679711 -085.73668411 -159.84 gate heavy|jets|turboprops A8
 1301 D cargo ups
-1300  38.16838906 -085.73665621  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16838906 -085.73665621  20.37 gate heavy|jets|turboprops B7
 1301 D cargo ups
-1300  38.16664116 -085.73608797 -159.72 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16661995 -085.73609821 -159.72 gate heavy|jets|turboprops A10
 1301 D cargo ups
-1300  38.16857030 -085.73723816  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16857030 -085.73723816  20.37 gate heavy|jets|turboprops B5
 1301 D cargo ups
-1300  38.16646569 -085.73550763 -159.60 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16644447 -085.73551787 -159.60 gate heavy|jets|turboprops A12
 1301 D cargo ups
-1300  38.16874849 -085.73782209  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16874849 -085.73782209  20.37 gate heavy|jets|turboprops B3
 1301 D cargo ups
-1300  38.16892731 -085.73840571  20.37 gate heavy|jets|turboprops UPS Ramp 7
+1300  38.16892731 -085.73840571  20.37 gate heavy|jets|turboprops B1
 1301 D cargo ups
-1300  38.17028863 -085.73931585 -159.51 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17027813 -085.73932034 -159.51 gate heavy|jets|turboprops B2
 1301 D cargo ups
-1300  38.17079630 -085.73579913  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17079630 -085.73579913  20.37 gate heavy|jets|turboprops C13
 1301 D cargo ups
-1300  38.17011113 -085.73873629 -159.62 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17010064 -085.73874077 -159.62 gate heavy|jets|turboprops B4
 1301 D cargo ups
-1300  38.17097328 -085.73638486  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17097329 -085.73638486  20.37 gate heavy|jets|turboprops C11
 1301 D cargo ups
-1300  38.16993462 -085.73814683 -159.66 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.16992413 -085.73815132 -159.66 gate heavy|jets|turboprops B6
 1301 D cargo ups
-1300  38.17115242 -085.73697301  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17115242 -085.73697301  20.37 gate heavy|jets|turboprops C9
 1301 D cargo ups
-1300  38.16975362 -085.73756366 -159.84 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.16974312 -085.73756814 -159.84 gate heavy|jets|turboprops B8
 1301 D cargo ups
-1300  38.17132809 -085.73755253  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17132809 -085.73755253  20.37 gate heavy|jets|turboprops C7
 1301 D cargo ups
-1300  38.16957645 -085.73697773 -159.72 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.16956596 -085.73698222 -159.72 gate heavy|jets|turboprops B10
 1301 D cargo ups
-1300  38.17150652 -085.73813212  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17150652 -085.73813212  20.37 gate heavy|jets|turboprops C5
 1301 D cargo ups
-1300  38.16940098 -085.73639737 -159.60 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.16939048 -085.73640186 -159.60 gate heavy|jets|turboprops B12
 1301 D cargo ups
-1300  38.17168757 -085.73872430  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17168757 -085.73872430  20.37 gate heavy|jets|turboprops C3
 1301 D cargo ups
-1300  38.16922127 -085.73581366 -159.36 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.16921077 -085.73581815 -159.36 gate heavy|jets|turboprops B14
 1301 D cargo ups
-1300  38.17186533 -085.73930646  20.37 gate heavy|jets|turboprops UPS Ramp 5
+1300  38.17186533 -085.73930646  20.37 gate heavy|jets|turboprops C1
 1301 D cargo ups
-1300  38.17324672 -085.74027875 -159.51 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17324672 -085.74027875 -159.51 gate heavy|jets|turboprops C2
 1301 D cargo ups
-1300  38.17375008 -085.73676808  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17377587 -085.73675598  20.37 gate heavy|jets|turboprops D13
 1301 D cargo ups
-1300  38.17306824 -085.73969247 -159.62 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17306824 -085.73969247 -159.62 gate heavy|jets|turboprops C4
 1301 D cargo ups
-1300  38.17393113 -085.73735000  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17395692 -085.73733790  20.37 gate heavy|jets|turboprops D11
 1301 D cargo ups
-1300  38.17289329 -085.73910676 -159.66 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17289329 -085.73910676 -159.66 gate heavy|jets|turboprops C6
 1301 D cargo ups
-1300  38.17410889 -085.73793218  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17413468 -085.73792008  20.37 gate heavy|jets|turboprops D9
 1301 D cargo ups
-1300  38.17271171 -085.73852064 -159.84 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17271171 -085.73852064 -159.84 gate heavy|jets|turboprops C8
 1301 D cargo ups
-1300  38.17428523 -085.73851943  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17431102 -085.73850733  20.37 gate heavy|jets|turboprops D7
 1301 D cargo ups
-1300  38.17253590 -085.73794157 -159.72 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17253590 -085.73794157 -159.72 gate heavy|jets|turboprops C10
 1301 D cargo ups
-1300  38.17446299 -085.73910161  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17448878 -085.73908951  20.37 gate heavy|jets|turboprops D5
 1301 D cargo ups
-1300  38.17235855 -085.73735406 -159.60 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17235855 -085.73735406 -159.60 gate heavy|jets|turboprops C12
 1301 D cargo ups
-1300  38.17464404 -085.73968354  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17466983 -085.73967144  20.37 gate heavy|jets|turboprops D3
 1301 D cargo ups
-1300  38.17218071 -085.73677745 -159.36 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17218071 -085.73677745 -159.36 gate heavy|jets|turboprops C14
 1301 D cargo ups
-1300  38.17482179 -085.74026572  20.37 gate heavy|jets|turboprops UPS Ramp 3
+1300  38.17484758 -085.74025363  20.37 gate heavy|jets|turboprops D1
 1301 D cargo ups
-1300  38.17573248 -085.73967049 155.78 gate heavy|jets|turboprops UPS Ramp 1
+1300  38.17580056 -085.73971103 155.78 gate heavy|jets|turboprops D6
 1301 D cargo ups
-1300  38.17596630 -085.74045634 154.11 gate heavy|jets|turboprops UPS Ramp 1
+1300  38.17603439 -085.74049688 154.11 gate heavy|jets|turboprops D4
 1301 D cargo ups
-1300  38.17616616 -085.74123595 152.93 gate heavy|jets|turboprops UPS Ramp 1
+1300  38.17623424 -085.74127649 152.93 gate heavy|jets|turboprops D2
 1301 D cargo ups
-1300  38.18096564 -085.72663084   9.71 tie_down props GA
+1300  38.18096564 -085.72663084   9.71 tie_down props GA1
 1301 B general_aviation 
-1300  38.18144722 -085.72393144 299.31 tie_down props GA
+1300  38.18144722 -085.72393144 299.31 tie_down props GA2
 1301 A general_aviation 
-1300  38.18273952 -085.72439533 256.78 tie_down props GA
+1300  38.18273952 -085.72439533 256.78 tie_down props GA3
 1301 A general_aviation 
-1300  38.18321097 -085.72645864 345.96 tie_down props Atlantic Aviation
+1300  38.18321097 -085.72645864 345.96 tie_down props GA5
 1301 A general_aviation 
-1300  38.18342610 -085.72545124 345.53 tie_down props Atlantic Aviation
+1300  38.18342610 -085.72545124 345.53 tie_down props GA4
 1301 A general_aviation 
-1300  38.18392361 -085.72702270  85.15 tie_down props Atlantic Aviation
+1300  38.18392361 -085.72702270  85.15 tie_down props GA6
 1301 A general_aviation 
-1300  38.17136495 -085.74674229 -104.58 gate jets|turboprops Republic Ramp
+1300  38.17136495 -085.74674229 -104.58 gate jets|turboprops REPUBLIC
 1301 B airline 
-1300  38.17042256 -085.74660604 300.47 gate jets|turboprops Compass Ramp
+1300  38.17042256 -085.74660604 300.47 gate jets|turboprops COMPASS
 1301 B airline 
-1300  38.17558444 -085.74827362 -104.76 gate jets|turboprops FedEx Ramp
+1300  38.17558444 -085.74827362 -104.76 gate jets|turboprops FEDEX1
 1301 D cargo fdx
-1300  38.17604322 -085.74857784 -104.76 gate jets|turboprops FedEx Ramp
+1300  38.17604322 -085.74857784 -104.76 gate jets|turboprops FEDEX2
 1301 D cargo fdx
 1300  38.18414735 -085.74052814 -155.14 gate jets|turboprops A1
 1301 C airline dal
@@ -1811,15 +1811,15 @@ I
 1301 C airline ual
 1300  38.18235130 -085.74432944  75.46 gate jets|turboprops terminal remote stand
 1301 C airline 
-1300  38.17595571 -085.72430666 254.69 tie_down heavy|jets|turboprops|props|helos|fighters Kentucky Air National Guard
+1300  38.17595571 -085.72430666 254.69 tie_down heavy|jets|turboprops|props|helos|fighters ANG1
 1301 C military 
-1300  38.17637569 -085.72444647 254.69 tie_down heavy|jets|turboprops|props|helos|fighters Kentucky Air National Guard
+1300  38.17637569 -085.72444647 254.69 tie_down heavy|jets|turboprops|props|helos|fighters ANG2
 1301 C military 
-1300  38.17679606 -085.72458520 254.69 tie_down heavy|jets|turboprops|props|helos|fighters Kentucky Air National Guard
+1300  38.17679606 -085.72458520 254.69 tie_down heavy|jets|turboprops|props|helos|fighters ANG3
 1301 C military 
-1300  38.17721610 -085.72472502 254.69 tie_down heavy|jets|turboprops|props|helos|fighters Kentucky Air National Guard
+1300  38.17721610 -085.72472502 254.69 tie_down heavy|jets|turboprops|props|helos|fighters ANG4
 1301 C military 
-1300  38.17805729 -085.72500025 254.69 tie_down heavy|jets|turboprops|props|helos|fighters Kentucky Air National Guard
+1300  38.17805729 -085.72500025 254.69 tie_down heavy|jets|turboprops|props|helos|fighters ANG6
 1301 C military 
 18  38.18379771 -085.74393418 1 beacon
 19  38.18449461 -085.72925290 0 New Windsock 5
@@ -1836,18 +1836,18 @@ I
 1201  38.17683324 -085.73621659 both 8 N_start
 1201  38.17760088 -085.73603558 both 9 N_start
 1201  38.17793296 -085.73595186 both 10 N_start
-1201  38.17714455 -085.73336252 both 11 N_start
+1201  38.17714454 -085.73336252 both 11 N_start
 1201  38.17620648 -085.73028310 both 12 N_start
 1201  38.17596139 -085.73059514 both 13 N_start
-1201  38.17686811 -085.73342450 both 14 N_start
+1201  38.17686811 -085.73342449 both 14 N_start
 1201  38.18360515 -085.73457547 both 15 N_start
 1201  38.18560601 -085.73409322 both 16 N_start
 1201  38.17797516 -085.73996132 both 17 N_start
-1201  38.17940977 -085.74466951 both 18 N_start
+1201  38.17940978 -085.74466951 both 18 N_start
 1201  38.17845888 -085.74435235 both 19 N_start
 1201  38.17995560 -085.74645938 both 20 N_start
 1201  38.18018403 -085.74720832 both 21 N_start
-1201  38.17947028 -085.74755560 both 22 N_start
+1201  38.17947029 -085.74755559 both 22 N_start
 1201  38.18103552 -085.74681412 both 23 N_start
 1201  38.18385515 -085.74774594 both 24 N_start
 1201  38.18463179 -085.74800118 both 25 N_start
@@ -1871,7 +1871,7 @@ I
 1201  38.15631199 -085.73866093 both 43 N_start
 1201  38.15827082 -085.73930554 both 44 N_start
 1201  38.15908394 -085.73957132 both 45 N_start
-1201  38.16322161 -085.74093894 both 46 N_start
+1201  38.16322160 -085.74093894 both 46 N_start
 1201  38.16341768 -085.73998214 both 47 N_start
 1201  38.16631777 -085.74196178 both 48 N_start
 1201  38.16709646 -085.74222014 both 49 N_start
@@ -1883,7 +1883,7 @@ I
 1201  38.17299113 -085.74517849 both 55 N_start
 1201  38.17584704 -085.74510637 both 56 N_start
 1201  38.17126382 -085.72689067 both 57 D3_stop
-1201  38.16859892 -085.72598531 both 58 D2_stop
+1201  38.16859892 -085.72598530 both 58 D2_stop
 1201  38.15573248 -085.73732946 both 59 _stop
 1201  38.15586922 -085.73708793 both 60 _stop
 1201  38.15614271 -085.73699325 both 61 _stop
@@ -1916,7 +1916,7 @@ I
 1201  38.18493237 -085.73977059 both 88 H_start
 1201  38.18474730 -085.73872517 both 89 K_stop
 1201  38.18670202 -085.73448621 both 90 K_stop
-1201  38.18539126 -085.73733585 both 91 K_stop
+1201  38.18539127 -085.73733585 both 91 K_stop
 1201  38.18632075 -085.73203707 both 92 K_stop
 1201  38.18641823 -085.73266529 both 93 K_stop
 1201  38.18652873 -085.73338106 both 94 K_stop
@@ -1953,7 +1953,7 @@ I
 1201  38.17078092 -085.72408379 both 125 E_stop
 1201  38.18173098 -085.72782187 both 126 E_stop
 1201  38.17942461 -085.72702466 both 127 E_stop
-1201  38.17812032 -085.72658420 both 128 E_stop
+1201  38.17812033 -085.72658420 both 128 E_stop
 1201  38.17963746 -085.72602905 both 129 E_stop
 1201  38.18226795 -085.72791128 both 130 E_stop
 1201  38.18321959 -085.72780398 both 131 E_stop
@@ -1970,7 +1970,7 @@ I
 1201  38.18659640 -085.73272622 both 142 D_stop
 1201  38.16473655 -085.72525972 both 143 D_stop
 1201  38.16554156 -085.72553254 both 144 D_stop
-1201  38.16565172 -085.72497695 both 145 D_stop
+1201  38.16565172 -085.72497694 both 145 D_stop
 1201  38.16454327 -085.72512439 both 146 D_stop
 1201  38.16444175 -085.72488850 both 147 D_stop
 1201  38.16445152 -085.72459052 both 148 D_stop
@@ -1984,7 +1984,7 @@ I
 1201  38.16839322 -085.72766144 both 156 UPS6_stop
 1201  38.16998165 -085.73183258 both 157 UPS6_stop
 1201  38.17021359 -085.73183407 both 158 UPS6_stop
-1201  38.17037172 -085.73166421 both 159 UPS6_stop
+1201  38.17037173 -085.73166421 both 159 UPS6_stop
 1201  38.17041155 -085.73133940 both 160 UPS6_stop
 1201  38.16963302 -085.72878665 both 161 UPS6_stop
 1201  38.16951686 -085.72825303 both 162 UPS6_stop
@@ -1993,24 +1993,24 @@ I
 1201  38.17085092 -085.72734544 both 165 UPS6_start
 1201  38.16868394 -085.72792560 both 166 UPS6_stop
 1201  38.16842664 -085.72727660 both 167 UPS6_stop
-1201  38.16979567 -085.73158314 both 168 UPS6_start
-1201  38.16962486 -085.73101929 both 169 UPS6_start
-1201  38.16874163 -085.72811152 both 170 UPS6_start
+1201  38.16979568 -085.73158314 both 168 UPS6_start
+1201  38.16962487 -085.73101929 both 169 UPS6_start
+1201  38.16874164 -085.72811152 both 170 UPS6_start
 1201  38.17000882 -085.72705863 both 171 UPS4_stop
 1201  38.17158842 -085.73251239 both 172 UPS4_start
 1201  38.17068862 -085.72955590 both 173 UPS4_start
 1201  38.17036232 -085.72824671 both 174 UPS4_start
 1201  38.17289343 -085.73646832 both 175 UPS3_start
 1201  38.17439867 -085.74145774 both 176 UPS3_start
-1201  38.17002300 -085.73585582 both 177 UPS5_start
+1201  38.17002300 -085.73585581 both 177 UPS5_start
 1201  38.16714237 -085.73514973 both 178 UPS7_start
 1201  38.16859629 -085.73991612 both 179 UPS7_start
 1201  38.16072289 -085.73273449 both 180 UPS10_stop
-1201  38.15970408 -085.73413653 both 181 UPS10_stop
+1201  38.15970408 -085.73413652 both 181 UPS10_stop
 1201  38.16331811 -085.73634256 both 182 UPS11_stop
 1201  38.16364781 -085.73745371 both 183 UPS11_stop
 1201  38.15930832 -085.73603172 both 184 UPS11_start
-1201  38.16154696 -085.73676805 both 185 UPS11_start
+1201  38.16154695 -085.73676805 both 185 UPS11_start
 1201  38.15886854 -085.73704823 both 186 B_stop
 1201  38.15868624 -085.73726766 both 187 B_stop
 1201  38.16265709 -085.72990273 both 188 UPS9_stop
@@ -2023,7 +2023,7 @@ I
 1201  38.16860197 -085.74013651 both 195 C_start
 1201  38.17163561 -085.74113842 both 196 C_start
 1201  38.17428175 -085.74200907 both 197 C_start
-1201  38.17459705 -085.74211282 both 198 C_start
+1201  38.17459705 -085.74211281 both 198 C_start
 1201  38.17664715 -085.74279073 both 199 C_start
 1201  38.17777286 -085.74315900 both 200 C_start
 1201  38.17813519 -085.74327887 both 201 C_start
@@ -2057,7 +2057,7 @@ I
 1201  38.16877581 -085.74378904 both 229 A_stop
 1201  38.17565025 -085.74605585 both 230 A_stop
 1201  38.17915776 -085.74771439 both 231 F_start
-1201  38.17900285 -085.74718122 both 232 F_start
+1201  38.17900285 -085.74718123 both 232 F_start
 1201  38.17864515 -085.74602707 both 233 F_start
 1201  38.17829964 -085.74489196 both 234 F_start
 1201  38.17810087 -085.74423749 both 235 F_start
@@ -2077,11 +2077,11 @@ I
 1201  38.17210926 -085.72453725 both 249 F_start
 1201  38.16973673 -085.72534465 both 250 F_start
 1201  38.16586063 -085.72402036 both 251 F_start
-1201  38.16465749 -085.72361094 both 252 F_start
+1201  38.16465748 -085.72361094 both 252 F_start
 1201  38.17381451 -085.72360980 both 253 G_stop
-1201  38.17408973 -085.72367102 both 254 G_stop
+1201  38.17408974 -085.72367102 both 254 G_stop
 1201  38.17425650 -085.72389435 both 255 G_stop
-1201  38.18090289 -085.74569130 both 256 G_stop
+1201  38.18090290 -085.74569130 both 256 G_stop
 1201  38.18072334 -085.74510246 both 257 G_stop
 1201  38.18048492 -085.74430964 both 258 G_stop
 1201  38.18015225 -085.74491168 both 259 G_stop

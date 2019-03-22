@@ -1,4 +1,4 @@
-++SDF++ 217.25 hrs
+++SDF++ 222.25 hrs
 [x] runway markings
 [x] taxiway poly
 [x] taxiway shoulders
@@ -36,7 +36,11 @@
 [x] create building map
 [x] aircraft ramp positions
 [x] sam jetways
+[x] taxi routes
+[x] fix lights on 17R threshold
 [ ] buildings (see spreadsheet for progress tracking)
+[ ] terminal shadow
+[ ] terminal metalness
 [ ] appr light fence
 [ ] windsocks
 [ ] sam marshallers
@@ -46,13 +50,4 @@
 [ ] ground clutter
 [ ] perimeter buildings
 [ ] vegetation
-[ ] taxi routes
 [ ] ground routes
-[ ] fix lights on 17R threshold
-[ ] sinking taxiway B between B7 and G
-
-commit notes
--added new parts of worldport
--airport layout now shows in xplane menu
--fixed 3d lights that should have been embedded
--fixed stray line by pier D
