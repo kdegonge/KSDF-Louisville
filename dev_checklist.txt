@@ -1,4 +1,4 @@
-++SDF++ 222.25 hrs
+++SDF++ 226.75 hrs
 [x] runway markings
 [x] taxiway poly
 [x] taxiway shoulders
@@ -51,3 +51,23 @@
 [ ] perimeter buildings
 [ ] vegetation
 [ ] ground routes
+[ ] fence around burrial ground
+[ ] ANG fence by twy A
+[ ] fence around fuel farm
+[ ] A1 pushback route
+[ ] rebake roof
+[ ] fix stand C
+[ ] fix SE ortho
+[ ] 
+
+items for beta v0.2.0
+----------------
+[x] worldport parking signs and vents
+[x] worldport lights
+[x] rebake hub b
+[x] re-export hub a
+[x] check pier D is fixed
+[x] re-export pier a
+[x] fix roof
+[x] worldport ground line adjustment
+[ ] worldport loading bays
