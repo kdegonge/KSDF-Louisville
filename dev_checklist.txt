@@ -1,4 +1,4 @@
-++SDF++ 228 hrs
+++SDF++ 228.75 hrs
 [x] runway markings
 [x] taxiway poly
 [x] taxiway shoulders

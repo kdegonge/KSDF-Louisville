@@ -1529,6 +1529,7 @@ I
 20  38.16505940 -085.72423841 164.9100 0 2 {@Y}D{^r}
 20  38.16782925 -085.72677119 345.3100 0 2 {@Y,^lu}UPS6
 20  38.16805998 -085.72582774 198.9600 0 2 {@Y,^lu}D{@L}D3{@Y}D{^rd}
+14  38.15907881 -085.73015491 196.85 0 Tower Viewpoint
 1300  38.17238416 -085.73221257  21.34 gate heavy|jets|turboprops E13
 1301 D cargo ups
 1300  38.17220506 -085.73162324  21.34 gate heavy|jets|turboprops E11
@@ -1579,11 +1580,11 @@ I
 1301 D cargo ups
 1300  38.17390186 -085.73354159 170.28 gate heavy|jets|turboprops E14
 1301 D cargo ups
-1300  38.17512245 -085.73744879 159.22 gate heavy|jets|turboprops D12
+1300  38.17512456 -085.73744191 159.22 gate heavy|jets|turboprops D12
 1301 D cargo ups
-1300  38.17533348 -085.73815733 158.04 gate heavy|jets|turboprops D10
+1300  38.17533543 -085.73815191 158.04 gate heavy|jets|turboprops D10
 1301 D cargo ups
-1300  38.17555896 -085.73891203 157.46 gate heavy|jets|turboprops D8
+1300  38.17556073 -085.73890816 157.46 gate heavy|jets|turboprops D8
 1301 D cargo ups
 1300  38.16733212 -085.73843623 -159.51 gate heavy|jets|turboprops A2
 1301 D cargo ups
@@ -1769,9 +1770,9 @@ I
 1301 C airline dal
 1300  38.18393284 -085.73917227 -158.25 gate jets|turboprops A9
 1301 B airline ual
-1300  38.18406242 -085.73877202 -132.85 gate jets|turboprops A11
+1300  38.18401088 -085.73884336 -132.85 gate jets|turboprops A11
 1301 C airline ual
-1300  38.18387094 -085.73838242 -101.99 gate jets|turboprops A15
+1300  38.18385857 -085.73845271 -101.99 gate jets|turboprops A15
 1301 C airline ual
 1300  38.18358208 -085.73835512 -74.35 gate jets|turboprops A14
 1301 C airline aal
@@ -1797,9 +1798,9 @@ I
 1301 C airline swa
 1300  38.18204674 -085.74136645  -3.03 gate jets|turboprops B17
 1301 C airline swa
-1300  38.18191868 -085.74170859  24.29 gate jets|turboprops B19 (no jetway)
+1300  38.18186769 -085.74173772  24.29 gate jets|turboprops B19 (no jetway)
 1301 C airline swa
-1300  38.18208709 -085.74214179 -212.71 gate jets|turboprops B18
+1300  38.18213327 -085.74217930 -212.71 gate jets|turboprops B18
 1301 C airline swa
 1300  38.18249134 -085.74203111 -178.77 gate jets|turboprops B16
 1301 C airline aal
