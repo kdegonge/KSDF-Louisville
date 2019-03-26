@@ -1,4 +1,4 @@
-++SDF++ 228.75 hrs
+++SDF++ 230 hrs 7.55
 [x] runway markings
 [x] taxiway poly
 [x] taxiway shoulders
@@ -38,8 +38,13 @@
 [x] sam jetways
 [x] taxi routes
 [x] fix lights on 17R threshold
+[x] terminal shadow
+[x] rebake roof
+[x] fix 35L embedded lighting
+[x] lower worldport DGS
+[x] terminal ground clutter
+[x] ground routes
 [ ] buildings (see spreadsheet for progress tracking)
-[ ] terminal shadow
 [ ] terminal metalness
 [ ] appr light fence
 [ ] windsocks
@@ -47,27 +52,20 @@
 [ ] optimize runway signs (decrease poly count, switch library)
 [ ] optimize shoulder markings?
 [ ] compress building textures
-[ ] ground clutter
 [ ] perimeter buildings
 [ ] vegetation
-[ ] ground routes
 [ ] fence around burrial ground
 [ ] ANG fence by twy A
 [ ] fence around fuel farm
-[ ] A1 pushback route
-[ ] rebake roof
+[?] A1 pushback route
 [ ] fix stand C
 [ ] fix SE ortho
-[ ] 
-
-items for beta v0.2.0
-----------------
-[x] worldport parking signs and vents
-[x] worldport lights
-[x] rebake hub b
-[x] re-export hub a
-[x] check pier D is fixed
-[x] re-export pier a
-[x] fix roof
-[x] worldport ground line adjustment
 [ ] worldport loading bays
+[ ] brighter worldport lighting
+[ ] terminal small clutter
+[ ] worldport clutter
+[ ] ATC comms towers
+[ ] worldport small lines
+[ ] finish adding dgs to worldport
+[ ] wt3 routes (colab)
+[ ] sam config (colab)

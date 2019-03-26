@@ -533,7 +533,7 @@ I
 111  38.17453514 -085.72761267
 113  38.17457515 -085.72780080
 110 2 0.00 0.0000 New Taxiway 1
-111  38.15537411 -085.73808731
+111  38.15527647 -085.73858807
 111  38.15554356 -085.73726535
 111  38.15560934 -085.73709805
 111  38.15573557 -085.73690813
@@ -578,7 +578,9 @@ I
 111  38.16796293 -085.72671806
 111  38.16717720 -085.72632694
 111  38.16410801 -085.72528759
+111  38.16439930 -085.72390875
 111  38.16442375 -085.72379301
+111  38.16451381 -085.72382361
 111  38.17383010 -085.72698875
 111  38.17442643 -085.72894712
 111  38.17432580 -085.72899792
@@ -610,7 +612,9 @@ I
 111  38.17852810 -085.74279007
 111  38.17849213 -085.74266620
 111  38.17858981 -085.74262004
-113  38.17965433 -085.74611601
+111  38.17965433 -085.74611601
+111  38.15825193 -085.73903891
+113  38.15814693 -085.73953135
 111  38.17918308 -085.74493619
 111  38.17879028 -085.74479803
 111  38.17867356 -085.74482386
@@ -1533,11 +1537,11 @@ I
 1300  38.17238416 -085.73221257  21.34 gate heavy|jets|turboprops E13
 1301 D cargo ups
 1300  38.17220506 -085.73162324  21.34 gate heavy|jets|turboprops E11
-1301 D cargo ups
+1301 C cargo ups
 1300  38.17202843 -085.73104267  21.34 gate heavy|jets|turboprops E9
 1301 D cargo ups
 1300  38.17185130 -085.73045974  21.34 gate heavy|jets|turboprops E7
-1301 D cargo ups
+1301 C cargo ups
 1300  38.17167343 -085.72987486  21.34 gate heavy|jets|turboprops E5
 1301 D cargo ups
 1300  38.16938401 -085.72879274 -140.60 gate heavy|jets|turboprops RAMP 6-3
@@ -1565,7 +1569,7 @@ I
 1300  38.17038361 -085.73212573 -140.60 gate heavy|jets|turboprops RAMP 6-13
 1301 D cargo ups
 1300  38.17149543 -085.72928941  21.29 gate heavy|jets|turboprops E3
-1301 D cargo ups
+1301 C cargo ups
 1300  38.17277335 -085.72982814 -179.75 gate heavy|jets|turboprops E2
 1301 D cargo ups
 1300  38.17295472 -085.73041962 178.71 gate heavy|jets|turboprops E4
@@ -1587,7 +1591,7 @@ I
 1300  38.17556073 -085.73890816 157.46 gate heavy|jets|turboprops D8
 1301 D cargo ups
 1300  38.16733212 -085.73843623 -159.51 gate heavy|jets|turboprops A2
-1301 D cargo ups
+1301 C cargo ups
 1300  38.16362989 -085.73144830 232.18 gate heavy|jets|turboprops RAMP9-23
 1301 E cargo ups
 1300  38.16405528 -085.73282453 232.18 gate heavy|jets|turboprops RAMP9-19
@@ -1649,11 +1653,11 @@ I
 1300  38.16529380 -085.73522981  20.37 gate heavy|jets|turboprops A9
 1301 D cargo ups
 1300  38.16546735 -085.73581513  20.37 gate heavy|jets|turboprops A7
-1301 D cargo ups
+1301 C cargo ups
 1300  38.16564859 -085.73639705  20.37 gate heavy|jets|turboprops A5
 1301 D cargo ups
 1300  38.16582679 -085.73698096  20.37 gate heavy|jets|turboprops A3
-1301 D cargo ups
+1301 C cargo ups
 1300  38.16600560 -085.73756456  20.37 gate heavy|jets|turboprops A1
 1301 D cargo ups
 1300  38.16786140 -085.73490447  20.37 gate heavy|jets|turboprops B13
@@ -1661,23 +1665,23 @@ I
 1300  38.16715463 -085.73785669 -159.62 gate heavy|jets|turboprops A4
 1301 D cargo ups
 1300  38.16803527 -085.73548918  20.37 gate heavy|jets|turboprops B11
-1301 D cargo ups
+1301 C cargo ups
 1300  38.16697812 -085.73726726 -159.66 gate heavy|jets|turboprops A6
-1301 D cargo ups
+1301 C cargo ups
 1300  38.16821551 -085.73607087  20.37 gate heavy|jets|turboprops B9
 1301 D cargo ups
 1300  38.16679711 -085.73668411 -159.84 gate heavy|jets|turboprops A8
 1301 D cargo ups
 1300  38.16838906 -085.73665621  20.37 gate heavy|jets|turboprops B7
-1301 D cargo ups
+1301 C cargo ups
 1300  38.16661995 -085.73609821 -159.72 gate heavy|jets|turboprops A10
-1301 D cargo ups
+1301 C cargo ups
 1300  38.16857030 -085.73723816  20.37 gate heavy|jets|turboprops B5
 1301 D cargo ups
 1300  38.16644447 -085.73551787 -159.60 gate heavy|jets|turboprops A12
 1301 D cargo ups
 1300  38.16874849 -085.73782209  20.37 gate heavy|jets|turboprops B3
-1301 D cargo ups
+1301 C cargo ups
 1300  38.16892731 -085.73840571  20.37 gate heavy|jets|turboprops B1
 1301 D cargo ups
 1300  38.17027813 -085.73932034 -159.51 gate heavy|jets|turboprops B2
@@ -1685,25 +1689,25 @@ I
 1300  38.17079630 -085.73579913  20.37 gate heavy|jets|turboprops C13
 1301 D cargo ups
 1300  38.17010064 -085.73874077 -159.62 gate heavy|jets|turboprops B4
-1301 D cargo ups
+1301 C cargo ups
 1300  38.17097329 -085.73638486  20.37 gate heavy|jets|turboprops C11
-1301 D cargo ups
+1301 C cargo ups
 1300  38.16992413 -085.73815132 -159.66 gate heavy|jets|turboprops B6
 1301 D cargo ups
 1300  38.17115242 -085.73697301  20.37 gate heavy|jets|turboprops C9
 1301 D cargo ups
 1300  38.16974312 -085.73756814 -159.84 gate heavy|jets|turboprops B8
-1301 D cargo ups
+1301 C cargo ups
 1300  38.17132809 -085.73755253  20.37 gate heavy|jets|turboprops C7
-1301 D cargo ups
+1301 C cargo ups
 1300  38.16956596 -085.73698222 -159.72 gate heavy|jets|turboprops B10
 1301 D cargo ups
 1300  38.17150652 -085.73813212  20.37 gate heavy|jets|turboprops C5
 1301 D cargo ups
 1300  38.16939048 -085.73640186 -159.60 gate heavy|jets|turboprops B12
-1301 D cargo ups
+1301 C cargo ups
 1300  38.17168757 -085.73872430  20.37 gate heavy|jets|turboprops C3
-1301 D cargo ups
+1301 C cargo ups
 1300  38.16921077 -085.73581815 -159.36 gate heavy|jets|turboprops B14
 1301 D cargo ups
 1300  38.17186533 -085.73930646  20.37 gate heavy|jets|turboprops C1
@@ -1713,25 +1717,25 @@ I
 1300  38.17377587 -085.73675598  20.37 gate heavy|jets|turboprops D13
 1301 D cargo ups
 1300  38.17306824 -085.73969247 -159.62 gate heavy|jets|turboprops C4
-1301 D cargo ups
+1301 C cargo ups
 1300  38.17395692 -085.73733790  20.37 gate heavy|jets|turboprops D11
-1301 D cargo ups
+1301 C cargo ups
 1300  38.17289329 -085.73910676 -159.66 gate heavy|jets|turboprops C6
 1301 D cargo ups
 1300  38.17413468 -085.73792008  20.37 gate heavy|jets|turboprops D9
 1301 D cargo ups
 1300  38.17271171 -085.73852064 -159.84 gate heavy|jets|turboprops C8
-1301 D cargo ups
+1301 C cargo ups
 1300  38.17431102 -085.73850733  20.37 gate heavy|jets|turboprops D7
-1301 D cargo ups
+1301 C cargo ups
 1300  38.17253590 -085.73794157 -159.72 gate heavy|jets|turboprops C10
 1301 D cargo ups
 1300  38.17448878 -085.73908951  20.37 gate heavy|jets|turboprops D5
 1301 D cargo ups
 1300  38.17235855 -085.73735406 -159.60 gate heavy|jets|turboprops C12
-1301 D cargo ups
+1301 C cargo ups
 1300  38.17466983 -085.73967144  20.37 gate heavy|jets|turboprops D3
-1301 D cargo ups
+1301 C cargo ups
 1300  38.17218071 -085.73677745 -159.36 gate heavy|jets|turboprops C14
 1301 D cargo ups
 1300  38.17484758 -085.74025363  20.37 gate heavy|jets|turboprops D1
