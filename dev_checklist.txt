@@ -1,4 +1,4 @@
-++SDF++ 230 hrs 7.55
+++SDF++ 238 hrs
 [x] runway markings
 [x] taxiway poly
 [x] taxiway shoulders
@@ -44,21 +44,22 @@
 [x] lower worldport DGS
 [x] terminal ground clutter
 [x] ground routes
+[x] finish adding dgs to worldport
+[x] A1 pushback route
+[x] sam marshallers
 [ ] buildings (see spreadsheet for progress tracking)
 [ ] terminal metalness
 [ ] appr light fence
 [ ] windsocks
-[ ] sam marshallers
 [ ] optimize runway signs (decrease poly count, switch library)
 [ ] optimize shoulder markings?
 [ ] compress building textures
 [ ] perimeter buildings
 [ ] vegetation
-[ ] fence around burrial ground
+[x] fence around burrial ground
 [ ] ANG fence by twy A
 [ ] fence around fuel farm
-[?] A1 pushback route
-[ ] fix stand C
+[ ] update model for worldport stand C
 [ ] fix SE ortho
 [ ] worldport loading bays
 [ ] brighter worldport lighting
@@ -66,6 +67,20 @@
 [ ] worldport clutter
 [ ] ATC comms towers
 [ ] worldport small lines
-[ ] finish adding dgs to worldport
 [ ] wt3 routes (colab)
 [ ] sam config (colab)
+[ ] fix worldport terrain issue
+[ ] make the taxiway rubber better
+[?] add airport boundary
+[ ] 
+
+-------------------
+v0.3.0 commit notes
+-seperated windows from terminal objects and added reflections
+-added terminal AO shadow
+-added terminal clutter
+-fixed lights on runway 35L
+-fixed clipping issue with worldport when "runways follow terrain contours" is enabeled
+-added airport boundary
+-added perimeter fences
+-
