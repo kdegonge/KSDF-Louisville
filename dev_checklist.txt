@@ -1,4 +1,4 @@
-++SDF++ 238 hrs
+++SDF++ 240.75 hrs
 [x] runway markings
 [x] taxiway poly
 [x] taxiway shoulders
@@ -47,6 +47,8 @@
 [x] finish adding dgs to worldport
 [x] A1 pushback route
 [x] sam marshallers
+[x] add airport boundary
+[x] fence around burrial ground
 [ ] buildings (see spreadsheet for progress tracking)
 [ ] terminal metalness
 [ ] appr light fence
@@ -56,7 +58,6 @@
 [ ] compress building textures
 [ ] perimeter buildings
 [ ] vegetation
-[x] fence around burrial ground
 [ ] ANG fence by twy A
 [ ] fence around fuel farm
 [ ] update model for worldport stand C
@@ -71,7 +72,10 @@
 [ ] sam config (colab)
 [ ] fix worldport terrain issue
 [ ] make the taxiway rubber better
-[?] add airport boundary
+[ ] fix 17R poly heading
+[ ] 17L embedded lights threshold
+[ ] worldport signs further from wall
+[ ] lobster height above origin
 [ ] 
 
 -------------------
