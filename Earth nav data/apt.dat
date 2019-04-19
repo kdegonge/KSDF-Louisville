@@ -1785,7 +1785,7 @@ I
 1300  38.18394576 -085.73960393 -159.13 gate jets|turboprops A5
 1301 C airline dal cpz edv gjs rpa skw
 1300  38.18393284 -085.73917227 -158.25 gate jets|turboprops A9
-1301 B airline ual
+1301 B airline dal cpz edv gjs rpa skw
 1300  38.18401088 -085.73884336 -132.85 gate jets|turboprops A11
 1301 C airline fft
 1300  38.18385857 -085.73845271 -101.99 gate jets|turboprops A15
@@ -1795,19 +1795,19 @@ I
 1300  38.18341256 -085.73842833 330.02 gate jets|turboprops A14A (no jetway)
 1301 C airline ual aqi uca asq gjs ash rpa skw lof
 1300  38.18332634 -085.73866924 357.78 gate jets|turboprops A12
-1301 C airline dal
+1301 C airline ual aqi uca asq gjs ash rpa skw lof
 1300  38.18318612 -085.73902262  23.12 gate jets|turboprops A10
 1301 C airline aay
 1300  38.18322560 -085.73940744  36.93 gate jets|turboprops A8
-1301 C airline asq
+1301 C airline cpz edv gjs rpa skw aqi uca asq gjs ash rpa skw lof cpz eny ash pdt jia rpa skw
 1300  38.18327202 -085.73969082  73.15 gate jets|turboprops A6
-1301 B airline asq
+1301 B airline cpz edv gjs rpa skw aqi uca asq gjs ash rpa skw lof cpz eny ash pdt jia rpa skw
 1300  38.18344059 -085.74005953  85.03 gate jets|turboprops A4
-1301 B airline asq
+1301 B airline cpz edv gjs rpa skw aqi uca asq gjs ash rpa skw lof cpz eny ash pdt jia rpa skw
 1300  38.18320558 -085.74079400 -74.84 gate jets|turboprops B5
-1301 C airline fft
+1301 C airline aal cpz eny ash pdt jia rpa skw
 1300  38.18272409 -085.74080698 -87.18 gate jets|turboprops B9
-1301 B airline asq
+1301 B airline aal cpz eny ash pdt jia rpa skw
 1300  38.18244498 -085.74087062 -73.87 gate jets|turboprops B11
 1301 C airline swa
 1300  38.18220467 -085.74103956 -34.96 gate jets|turboprops B15
