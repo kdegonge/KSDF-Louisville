@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE	worldport_roof.png
+TEXTURE	worldport_roof.dds
 TEXTURE_NORMAL	worldport_roof_NML.png
 POINT_COUNTS	3516	0	0	3516
 

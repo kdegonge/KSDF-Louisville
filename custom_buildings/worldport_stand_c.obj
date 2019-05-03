@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE	worldport_stands.png
+TEXTURE	worldport_stands.dds
 TEXTURE_NORMAL	worldport_stands_NML.png
 POINT_COUNTS	2475	0	0	2475
 

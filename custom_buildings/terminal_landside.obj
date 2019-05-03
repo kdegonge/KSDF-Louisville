@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE	terminal_landside.png
+TEXTURE	terminal_landside.dds
 TEXTURE_NORMAL	terminal_landside_NML.png
 POINT_COUNTS	2913	0	0	2913
 

@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE	terminal_glass.png
+TEXTURE	terminal_glass.dds
 TEXTURE_NORMAL	terminal_glass_NML.png
 NORMAL_METALNESS
 GLOBAL_specular 1.0

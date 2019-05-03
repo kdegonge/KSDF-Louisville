@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE	terminal_hallway.png
+TEXTURE	terminal_hallway.dds
 TEXTURE_NORMAL	terminal_hallway_NML.png
 POINT_COUNTS	2613	0	0	2613
 

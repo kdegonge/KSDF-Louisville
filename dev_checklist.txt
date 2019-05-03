@@ -1,4 +1,4 @@
-++SDF++ 249.25 hrs
+++SDF++ 255.50 hrs 7.00
 [x] runway markings
 [x] taxiway poly
 [x] taxiway shoulders
@@ -53,10 +53,12 @@
 [x] worldport loading bays
 [x] sam config
 [x] terminal small clutter
+[x] terminal metalness
+[x] windsocks
+[x] brighter worldport lighting
+[x] ATC comms towers
+[x] appr light fence
 [ ] buildings (see spreadsheet for progress tracking)
-[ ] terminal metalness
-[ ] appr light fence
-[ ] windsocks
 [ ] optimize runway signs (decrease poly count, switch library)
 [ ] compress building textures
 [ ] perimeter buildings
@@ -64,9 +66,7 @@
 [ ] ANG fence by twy A
 [ ] fence around fuel farm
 [ ] update model for worldport stand C
-[ ] brighter worldport lighting
 [ ] worldport clutter
-[ ] ATC comms towers
 [ ] worldport small lines
 [ ] wt3 routes (colab)
 [ ] fix worldport terrain issue
@@ -89,4 +89,15 @@ v0.3.0 commit notes
 -configured SAM jetways and DGS
 -updated gate assignments
 -fixed ortho bug
--
+
+v0.4.0 commit notes
+-textured buildings
+-added VHF antennas
+-added cars at more parking lots
+-added buildings south of the airport
+-fixed missing chevrons on 17R/35L
+-new lights at worldport
+-fixed fence around approach lights for 35R
+-textures compressed to DDS
+-added more vegetation
+-added more perimeter buildings

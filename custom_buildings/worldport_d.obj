@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE	worldport_d.png
+TEXTURE	worldport_d.dds
 TEXTURE_NORMAL	worldport_d_NML.png
 POINT_COUNTS	1065	0	0	1065
 

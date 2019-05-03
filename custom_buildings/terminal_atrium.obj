@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE	terminal_atrium.png
+TEXTURE	terminal_atrium.dds
 TEXTURE_NORMAL	terminal_atrium_NML.png
 POINT_COUNTS	2028	0	0	2028
 

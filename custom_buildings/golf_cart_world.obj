@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE	golf_cart_world.png
+TEXTURE	golf_cart_world.dds
 POINT_COUNTS	210	0	0	210
 
 VT	-34.32348251	-1	7.79725456	1	0	0	0.76023161	0.64023453
