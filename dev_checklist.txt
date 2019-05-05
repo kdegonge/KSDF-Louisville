@@ -1,4 +1,4 @@
-++SDF++ 255.50 hrs 7.00
+++SDF++ 260.75 hrs
 [x] runway markings
 [x] taxiway poly
 [x] taxiway shoulders
@@ -58,9 +58,9 @@
 [x] brighter worldport lighting
 [x] ATC comms towers
 [x] appr light fence
-[ ] buildings (see spreadsheet for progress tracking)
+[x] buildings (see spreadsheet for progress tracking)
+[x] compress building textures
 [ ] optimize runway signs (decrease poly count, switch library)
-[ ] compress building textures
 [ ] perimeter buildings
 [ ] vegetation
 [ ] ANG fence by twy A
@@ -72,32 +72,9 @@
 [ ] fix worldport terrain issue
 [ ] make the taxiway rubber better
 [ ] fix 17R poly heading
-[ ] 17L embedded lights threshold
+[?] 17L embedded lights threshold
 [ ] worldport signs further from wall
 [ ] lobster height above origin
 [ ] 
 
 -------------------
-v0.3.0 commit notes
--seperated windows from terminal objects and added reflections
--added terminal AO shadow
--added terminal clutter
--fixed lights on runway 35L
--fixed clipping issue with worldport when "runways follow terrain contours" is enabeled
--added airport boundary
--added perimeter fences
--configured SAM jetways and DGS
--updated gate assignments
--fixed ortho bug
-
-v0.4.0 commit notes
--textured buildings
--added VHF antennas
--added cars at more parking lots
--added buildings south of the airport
--fixed missing chevrons on 17R/35L
--new lights at worldport
--fixed fence around approach lights for 35R
--textures compressed to DDS
--added more vegetation
--added more perimeter buildings
