@@ -1,4 +1,4 @@
-++SDF++ 265 hrs
+++SDF++ 271.75 hrs
 [x] runway markings
 [x] taxiway poly
 [x] taxiway shoulders
@@ -74,7 +74,7 @@
 [ ] fix 17R poly heading
 [?] 17L embedded lights threshold
 [ ] worldport signs further from wall
-[ ] lobster height above origin
+[x] lobster height above origin
 [ ] 
 
 -------------------
