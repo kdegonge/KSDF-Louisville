@@ -13,16 +13,11 @@ For brevity's sake and so I don't have to update multiple sources all informatio
 Please report any bugs with the beta on the official project discord or on the official forum thread (linked above)
 
 **Known Issues**
-* Many untextured buildings
-* no wt3 routes
 * no vehicle ground routes
-* SAM not fully functional
-* no apron lights at night
-* no ground clutter (vehicles, pallets, ULDs, etc. )
-* missing the fedex building
+* some missing clutter objects (vehicles, etc.)
 * missing many perimeter buildings and sheds on property
 * radio frequencies not configured
-* broken gate signs on the passenger terminal
+* missing B748 updates (these will be part of v1.1)
 
 To conctact me about this repo please send me a message on [the org](https://forums.x-plane.org/index.php?/profile/534962-function86/) or send me a pm on [reddit](https://old.reddit.com/user/StableSystem/)
 
