@@ -3,11 +3,11 @@ I
 OBJ
 
 TILTED
-TEXTURE	../../../MisterX_Library/Vehicles/Trucks/Trailer_UPS.dds
-TEXTURE_NORMAL	../../../MisterX_Library/Vehicles/Trucks/Trailer_NRM.png
+TEXTURE	Trailer_UPS.dds
+TEXTURE_NORMAL	Trailer_NRM.png
 NORMAL_METALNESS
 GLOBAL_specular	1
-TEXTURE_DRAPED	../../../MisterX_Library/Shared/Vehicle_Shadow.png
+TEXTURE_DRAPED	Vehicle_Shadow.png
 SPECULAR	0.5
 POINT_COUNTS	1239	0	0	3150
 

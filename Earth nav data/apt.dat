@@ -1770,9 +1770,9 @@ I
 1301 A general_aviation 
 1300  38.18392361 -085.72702270  85.15 tie_down props GA6
 1301 A general_aviation 
-1300  38.17136495 -085.74674229 -104.58 gate jets|turboprops REPUBLIC
+1300  38.17136495 -085.74674229 -104.58 tie_down jets|turboprops REPUBLIC
 1301 B airline 
-1300  38.17042256 -085.74660604 300.47 gate jets|turboprops COMPASS
+1300  38.17042256 -085.74660604 300.47 tie_down jets|turboprops COMPASS
 1301 B airline 
 1300  38.17558444 -085.74827362 -104.76 gate jets|turboprops FEDEX1
 1301 D cargo fdx
@@ -1842,694 +1842,797 @@ I
 19  38.18449461 -085.72925290 0 New Windsock 5
 19  38.16733444 -085.72556716 0 New Windsock 4
 1200 
-1202 0 0 twoway runway 11/29
-1204 departure 11,29
-1204 arrival 11,29
-1204 ils 11,29
-1202 0 0 twoway runway 11/29
-1204 departure 11,17L,29,35R
-1204 arrival 11,17L,29,35R
-1204 ils 11,29
-1202 0 0 twoway runway 11/29
-1204 departure 11,17L,29,35R
-1204 arrival 11,17L,29,35R
-1204 ils 11,29
-1202 0 0 twoway runway 11/29
-1204 departure 11,29
-1204 arrival 11,29
-1204 ils 11,29
-1202 0 0 twoway runway 11/29
-1204 departure 11,29
-1204 arrival 11,29
-1204 ils 11,29
-1202 0 0 twoway runway 11/29
-1204 departure 11,29
-1204 arrival 11,29
-1204 ils 11,29
-1202 0 0 twoway runway 11/29
-1204 departure 11,29
-1204 arrival 11,29
-1204 ils 11,29
-1202 0 0 twoway runway 11/29
-1204 departure 11,29
-1204 arrival 11,29
-1204 ils 11,29
-1202 0 0 twoway runway 11/29
-1204 departure 11,29
-1204 arrival 11,29
-1204 ils 11,29
-1202 0 0 twoway runway 11/29
-1204 departure 11,17R,29,35L
-1204 arrival 11,17R,29,35L
-1204 ils 11,29
-1202 0 0 twoway runway 17L/35R
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1204 ils 17L,35R
-1202 0 0 twoway runway 17L/35R
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1204 ils 17L,35R
-1202 0 0 twoway runway 17L/35R
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1204 ils 17L,35R
-1202 0 0 twoway runway 17L/35R
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1204 ils 17L,35R
-1202 0 0 twoway runway 17L/35R
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1204 ils 17L,35R
-1202 0 0 twoway runway 17L/35R
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1204 ils 17L,35R
-1202 0 0 twoway runway 17L/35R
-1204 departure 11,17L,29,35R
-1204 arrival 11,17L,29,35R
-1204 ils 17L,35R
-1202 0 0 twoway runway 17L/35R
-1204 departure 11,17L,29,35R
-1204 arrival 11,17L,29,35R
-1204 ils 17L,35R
-1202 0 0 twoway runway 17L/35R
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1204 ils 17L,35R
-1202 0 0 twoway runway 17L/35R
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1204 ils 17L,35R
-1202 0 0 twoway runway 17L/35R
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1204 ils 17L,35R
-1202 0 0 twoway runway 17L/35R
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1204 ils 17L,35R
-1202 0 0 twoway runway 17L/35R
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1204 ils 17L,35R
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 11,17L,17R,29,35L,35R
-1204 arrival 11,17L,17R,29,35L,35R
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 11,17L,17R,29,35L,35R
-1204 arrival 11,17L,17R,29,35L,35R
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway runway 17R/35L
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1204 ils 17R,35L
-1202 0 0 twoway taxiway_F D3
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F D3
-1202 0 0 twoway taxiway_F D2
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F D2
-1202 0 0 twoway taxiway_F D1
-1202 0 0 twoway taxiway_F D1
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F 
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F 
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F 
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F 
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F 
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F 
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_D F1
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_D F1
-1202 0 0 twoway taxiway_F E3
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F E3
-1202 0 0 twoway taxiway_D MIL
-1202 0 0 twoway taxiway_D 
-1202 0 0 twoway taxiway_D 
-1202 0 0 twoway taxiway_D 
-1202 0 0 twoway taxiway_D 
-1202 0 0 twoway taxiway_D 
-1202 0 0 twoway taxiway_D 
-1202 0 0 twoway taxiway_D 
-1202 0 0 twoway taxiway_D 
-1202 0 0 twoway taxiway_D 
-1202 0 0 twoway taxiway_D 
-1202 0 0 twoway taxiway_D 
-1202 0 0 twoway taxiway_B 
-1202 0 0 twoway taxiway_B 
-1202 0 0 twoway taxiway_B 
-1202 0 0 twoway taxiway_B 
-1202 0 0 twoway taxiway_F E4
-1202 0 0 twoway taxiway_F E4
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_C G2
-1202 0 0 twoway taxiway_C G2
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_F D4
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F D4
-1202 0 0 twoway taxiway_F D5
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F D5
-1202 0 0 twoway taxiway_F D5
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F D5
-1202 0 0 twoway taxiway_F D5
-1202 0 0 twoway taxiway_D P
-1202 0 0 twoway taxiway_C P
-1202 0 0 twoway taxiway_C P
-1202 0 0 twoway taxiway_D P
-1202 0 0 twoway taxiway_C P
-1202 0 0 twoway taxiway_D P
-1202 0 0 twoway taxiway_D P
-1202 0 0 twoway taxiway_D H
-1202 0 0 twoway taxiway_F H
-1202 0 0 twoway taxiway_F H
-1202 0 0 twoway taxiway_C H
-1202 0 0 twoway taxiway_C H
-1202 0 0 twoway taxiway_C H
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_C H
-1202 0 0 twoway taxiway_D H
-1202 0 0 twoway taxiway_D H
-1202 0 0 twoway taxiway_D H
-1202 0 0 twoway taxiway_F H
-1202 0 0 twoway taxiway_C H
-1202 0 0 twoway taxiway_C H
-1202 0 0 twoway taxiway_D H
-1202 0 0 twoway taxiway_D H
-1202 0 0 twoway taxiway_D H
-1202 0 0 twoway taxiway_D H
-1202 0 0 twoway taxiway_D H
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_D K
-1202 0 0 twoway taxiway_D K
-1202 0 0 twoway taxiway_F K
-1202 0 0 twoway taxiway_F K
-1202 0 0 twoway taxiway_F K
-1202 0 0 twoway taxiway_F K
-1202 0 0 twoway taxiway_D K
-1202 0 0 twoway taxiway_F K
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F N
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_F N
-1202 0 0 twoway taxiway_F N
-1202 0 0 twoway taxiway_F N
-1202 0 0 twoway taxiway_F N
-1202 0 0 twoway taxiway_F N
-1202 0 0 twoway taxiway_F M
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_F M
-1202 0 0 twoway taxiway_F M
-1202 0 0 twoway taxiway_F M
-1202 0 0 twoway taxiway_F L
-1202 0 0 twoway taxiway_F L
-1202 0 0 twoway taxiway_F L
-1202 0 0 twoway taxiway_D J
-1202 0 0 twoway taxiway_D J
-1202 0 0 twoway taxiway_D M
-1202 0 0 twoway taxiway_D M
-1202 0 0 twoway taxiway_D M
-1202 0 0 twoway taxiway_D M
-1202 0 0 twoway taxiway_D M
-1202 0 0 twoway taxiway_D M
-1202 0 0 twoway taxiway_D M
-1202 0 0 twoway taxiway_D M
-1202 0 0 twoway taxiway_D M
-1202 0 0 twoway taxiway_D J
-1202 0 0 twoway taxiway_D J
-1202 0 0 twoway taxiway_D J
-1202 0 0 twoway taxiway_D J
-1202 0 0 twoway taxiway_D J
-1202 0 0 twoway taxiway_D J
-1202 0 0 twoway taxiway_D J
-1202 0 0 twoway taxiway_F J
-1202 0 0 twoway taxiway_D J
-1202 0 0 twoway taxiway_F J
-1202 0 0 twoway taxiway_F J
-1202 0 0 twoway taxiway_F J
-1202 0 0 twoway taxiway_F B6
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F B6
-1202 0 0 twoway taxiway_F B6
-1202 0 0 twoway taxiway_F B6
-1202 0 0 twoway taxiway_F B6
-1202 0 0 twoway taxiway_F B6
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F B5
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F B5
-1202 0 0 twoway taxiway_F B5
-1202 0 0 twoway taxiway_F B5
-1202 0 0 twoway taxiway_F B5
-1202 0 0 twoway taxiway_F B5
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F B1
-1202 0 0 twoway taxiway_F B1
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F B3
-1202 0 0 twoway taxiway_F B4
-1202 0 0 twoway taxiway_F B4
-1202 0 0 twoway taxiway_F B4
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F B4
-1202 0 0 twoway taxiway_F B4
-1202 0 0 twoway taxiway_F B4
-1202 0 0 twoway taxiway_F B4
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F B3
-1202 0 0 twoway taxiway_F B3
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F B3
-1202 0 0 twoway taxiway_F B3
-1202 0 0 twoway taxiway_F B3
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F E
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_F E
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1202 0 0 twoway taxiway_F E
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F D
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_F D
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1202 0 0 twoway taxiway_F D
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_E UPS6
-1202 0 0 twoway taxiway_F UPS4
-1202 0 0 twoway taxiway_F UPS4
-1202 0 0 twoway taxiway_F UPS4
-1202 0 0 twoway taxiway_F UPS4
-1202 0 0 twoway taxiway_F UPS4
-1202 0 0 twoway taxiway_F UPS4
-1202 0 0 twoway taxiway_F UPS4
-1202 0 0 twoway taxiway_E UPS3
-1202 0 0 twoway taxiway_E UPS3
-1202 0 0 twoway taxiway_E UPS3
-1202 0 0 twoway taxiway_E UPS3
-1202 0 0 twoway taxiway_E UPS3
-1202 0 0 twoway taxiway_E UPS3
-1202 0 0 twoway taxiway_E UPS3
-1202 0 0 twoway taxiway_E UPS3
-1202 0 0 twoway taxiway_F UPS3
-1202 0 0 twoway taxiway_E UPS5
-1202 0 0 twoway taxiway_E UPS5
-1202 0 0 twoway taxiway_E UPS5
-1202 0 0 twoway taxiway_E UPS5
-1202 0 0 twoway taxiway_E UPS5
-1202 0 0 twoway taxiway_E UPS5
-1202 0 0 twoway taxiway_E UPS5
-1202 0 0 twoway taxiway_E UPS7
-1202 0 0 twoway taxiway_E UPS7
-1202 0 0 twoway taxiway_E UPS7
-1202 0 0 twoway taxiway_E UPS7
-1202 0 0 twoway taxiway_E UPS7
-1202 0 0 twoway taxiway_E UPS7
-1202 0 0 twoway taxiway_E UPS7
-1202 0 0 twoway taxiway_E UPS7
-1202 0 0 twoway taxiway_F UPS10
-1202 0 0 twoway taxiway_F UPS10
-1202 0 0 twoway taxiway_F UPS10
-1202 0 0 twoway taxiway_F UPS10
-1202 0 0 twoway taxiway_F UPS10
-1202 0 0 twoway taxiway_F UPS11
-1202 0 0 twoway taxiway_F UPS11
-1202 0 0 twoway taxiway_F UPS11
-1202 0 0 twoway taxiway_F UPS11
-1202 0 0 twoway taxiway_F UPS11
-1202 0 0 twoway taxiway_F UPS11
-1202 0 0 twoway taxiway_F UPS11
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F UPS9
-1202 0 0 twoway taxiway_F C
-1202 0 0 twoway taxiway_F C
-1202 0 0 twoway taxiway_F C
-1202 0 0 twoway taxiway_F C
-1202 0 0 twoway taxiway_F C
-1202 0 0 twoway taxiway_F C
-1202 0 0 twoway taxiway_F C
-1202 0 0 twoway taxiway_F C
-1202 0 0 twoway taxiway_F C
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_F C
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_F C
-1202 0 0 twoway taxiway_F C
-1202 0 0 twoway taxiway_F B2
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F B2
-1202 0 0 twoway taxiway_F A2
-1202 0 0 twoway taxiway_F A2
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F A3
-1202 0 0 twoway taxiway_F A3
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F A4
-1202 0 0 twoway taxiway_F A4
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F A5
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F A5
-1202 0 0 twoway taxiway_F A6
-1202 0 0 twoway taxiway_F A6
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F A
-1202 0 0 twoway taxiway_F A
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F A
-1202 0 0 twoway taxiway_F A
-1202 0 0 twoway taxiway_F A
-1202 0 0 twoway taxiway_F A
-1202 0 0 twoway taxiway_F A
-1202 0 0 twoway taxiway_F A
-1202 0 0 twoway taxiway_F A
-1202 0 0 twoway taxiway_F A
-1202 0 0 twoway taxiway_F A
-1202 0 0 twoway taxiway_F A
-1202 0 0 twoway taxiway_F A
-1202 0 0 twoway taxiway_F A
-1202 0 0 twoway taxiway_F F3
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_F F3
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F F
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_F F
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F F
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F F
-1202 0 0 twoway taxiway_D G1
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_D G
-1202 0 0 twoway taxiway_D G
-1202 0 0 twoway taxiway_F G
-1202 0 0 twoway taxiway_F G
-1202 0 0 twoway taxiway_F G
-1202 0 0 twoway taxiway_F G
-1202 0 0 twoway taxiway_F G
-1202 0 0 twoway taxiway_C G
-1202 0 0 twoway taxiway_C G
-1202 0 0 twoway taxiway_C G
-1202 0 0 twoway taxiway_C G
-1202 0 0 twoway taxiway_F G
-1202 0 0 twoway taxiway_F G
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F G
-1204 departure 17L,35R
-1204 arrival 17L,35R
-1202 0 0 twoway taxiway_F G
-1202 0 0 twoway taxiway_F G
-1202 0 0 twoway taxiway_D G
-1202 0 0 twoway taxiway_F G
-1204 departure 11,17R,29,35L
-1204 arrival 11,17R,29,35L
-1202 0 0 twoway taxiway_F G
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F B7
-1202 0 0 twoway taxiway_F B7
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_F B
-1204 departure 11,29
-1204 arrival 11,29
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1202 0 0 twoway taxiway_F B
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F 
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F 
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F 
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F 
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F 
-1204 departure 17R,35L
-1204 arrival 17R,35L
-1202 0 0 twoway taxiway_F 
-1204 departure 17R,35L
-1204 arrival 17R,35L
+1201  38.17971850 -085.72651514 both 0 road_stop
+1201  38.17994244 -085.72492710 both 1 road_stop
+1201  38.17551864 -085.72342362 both 2 road_stop
+1201  38.17537848 -085.72414362 both 3 road_stop
+1201  38.17512868 -085.72466143 both 4 road_stop
+1201  38.17513361 -085.72480047 both 5 road_stop
+1201  38.17525631 -085.72494964 both 6 road_stop
+1201  38.17541163 -085.72504842 both 7 road_stop
+1201  38.18183709 -085.72723659 both 8 road_stop
+1201  38.18209429 -085.72729208 both 9 road_stop
+1201  38.18228887 -085.72730630 both 10 road_stop
+1201  38.18291399 -085.72721810 both 11 road_stop
+1201  38.18335652 -085.72722601 both 12 road_stop
+1201  38.18765936 -085.72868384 both 13 road_stop
+1201  38.18785797 -085.72886482 both 14 road_stop
+1201  38.18930317 -085.73120222 both 15 road_stop
+1201  38.18956351 -085.73256468 both 16 road_stop
+1201  38.18950983 -085.73285493 both 17 road_stop
+1201  38.18936088 -085.73310250 both 18 road_stop
+1201  38.18902405 -085.73333470 both 19 road_stop
+1201  38.18871215 -085.73340459 both 20 road_stop
+1201  38.18843437 -085.73339947 both 21 road_stop
+1201  38.18751339 -085.73361613 both 22 road_stop
+1201  38.18730759 -085.73374653 both 23 road_stop
+1201  38.18717867 -085.73393623 both 24 road_stop
+1201  38.18710956 -085.73411308 both 25 road_stop
+1201  38.18709713 -085.73433440 both 26 road_stop
+1201  38.18718302 -085.73497084 both 27 road_stop
+1201  38.18719644 -085.73519449 both 28 road_stop
+1201  38.18714411 -085.73545571 both 29 road_stop
+1201  38.18627144 -085.73735572 both 30 road_stop
+1201  38.18537577 -085.73813756 both 31 road_stop
+1201  38.18530354 -085.73822945 both 32 road_stop
+1201  38.18508921 -085.73883525 both 33 road_stop
+1201  38.18508295 -085.73910687 both 34 road_stop
+1201  38.18506289 -085.73935387 both 35 road_stop
+1201  38.18500982 -085.73955229 both 36 road_stop
+1201  38.18522138 -085.74112942 both 37 road_stop
+1201  38.18510004 -085.74161827 both 38 road_stop
+1201  38.18513284 -085.74165086 both 39 road_stop
+1201  38.18520565 -085.74149020 both 40 road_stop
+1201  38.18527396 -085.74119346 both 41 road_stop
+1201  38.18422920 -085.74158542 both 42 road_stop
+1201  38.18445700 -085.74080572 both 43 road_stop
+1201  38.18435148 -085.74090262 both 44 road_start
+1201  38.18507951 -085.74087923 both 45 road_stop
+1201  38.18423520 -085.74142578 both 46 road_stop
+1201  38.18526059 -085.74109101 both 47 road_stop
+1201  38.18515808 -085.74095763 both 48 road_stop
+1201  38.18511848 -085.74078473 both 49 road_stop
+1201  38.18475067 -085.74017977 both 50 road_stop
+1201  38.18443306 -085.73840139 both 51 road_stop
+1201  38.18414704 -085.73766832 both 52 road_stop
+1201  38.18401128 -085.73757955 both 53 road_stop
+1201  38.18347584 -085.73761501 both 54 road_stop
+1201  38.18331929 -085.73771934 both 55 road_stop
+1201  38.18139212 -085.74188732 both 56 road_stop
+1201  38.18136081 -085.74199402 both 57 road_stop
+1201  38.18136640 -085.74214624 both 58 road_stop
+1201  38.18141896 -085.74227143 both 59 road_stop
+1201  38.18202395 -085.74283195 both 60 road_stop
+1201  38.18208098 -085.74286610 both 61 road_stop
+1201  38.18225544 -085.74285045 both 62 road_stop
+1201  38.18306172 -085.74228139 both 63 road_stop
+1201  38.18437161 -085.74150174 both 64 road_stop
+1201  38.18487887 -085.74170148 both 65 road_stop
+1201  38.18504695 -085.74179925 both 66 road_stop
+1201  38.18509998 -085.74168547 both 67 road_start
+1201  38.18218782 -085.74287685 both 68 road_stop
+1201  38.18310922 -085.74354233 both 69 road_stop
+1201  38.18317529 -085.74368241 both 70 road_stop
+1201  38.18315461 -085.74379504 both 71 road_stop
+1201  38.18268619 -085.74481279 both 72 road_stop
+1201  38.18266419 -085.74490418 both 73 road_stop
+1201  38.18267713 -085.74501285 both 74 road_stop
+1201  38.18273667 -085.74508613 both 75 road_stop
+1201  38.18567493 -085.74611133 both 76 road_stop
+1201  38.18447195 -085.74571706 both 77 road_stop
+1201  38.18578883 -085.74615826 both 78 road_stop
+1201  38.18597780 -085.74627600 both 79 road_stop
+1201  38.18829090 -085.74800772 both 80 road_stop
+1201  38.18842784 -085.74820842 both 81 road_stop
+1201  38.18847696 -085.74886820 both 82 road_stop
+1201  38.18833626 -085.74953999 both 83 road_stop
+1201  38.18820502 -085.74976921 both 84 road_stop
+1201  38.18754335 -085.75031927 both 85 road_stop
+1201  38.18741729 -085.75034042 both 86 road_stop
+1201  38.17955386 -085.74979301 both 87 road_stop
+1201  38.17944017 -085.74976692 both 88 road_stop
+1201  38.17929852 -085.74967564 both 89 road_stop
+1201  38.17920440 -085.74951679 both 90 road_stop
+1201  38.17903386 -085.74893471 both 91 road_stop
+1201  38.17897049 -085.74887425 both 92 road_stop
+1201  38.17844490 -085.74871540 both 93 road_stop
+1201  38.17780884 -085.74870358 both 94 road_stop
+1201  38.17701430 -085.74842459 both 95 road_stop
+1201  38.17648312 -085.74805587 both 96 road_stop
+1201  38.17253638 -085.74675438 both 97 road_stop
+1201  38.17223537 -085.74655880 both 98 road_stop
+1201  38.17129412 -085.74624911 both 99 road_stop
+1201  38.17100490 -085.74623981 both 100 road_stop
+1201  38.15452329 -085.74083762 both 101 road_stop
+1201  38.15426563 -085.74070792 both 102 road_stop
+1201  38.15400932 -085.74047071 both 103 road_stop
+1201  38.15375972 -085.74005432 both 104 road_stop
+1201  38.15363224 -085.73953554 both 105 road_stop
+1201  38.15360540 -085.73847409 both 106 road_stop
+1201  38.15371007 -085.73734096 both 107 road_stop
+1201  38.15384829 -085.73699965 both 108 road_stop
+1201  38.15412876 -085.73685119 both 109 road_stop
+1201  38.15488024 -085.73681023 both 110 road_stop
+1201  38.15516473 -085.73669418 both 111 road_stop
+1201  38.15565722 -085.73632386 both 112 road_stop
+1201  38.15592024 -085.73619246 both 113 road_stop
+1201  38.15621576 -085.73616104 both 114 road_stop
+1201  38.15727768 -085.73633653 both 115 road_stop
+1201  38.15868034 -085.73356393 both 116 road_stop
+1201  38.15849020 -085.73328484 both 117 road_stop
+1201  38.15839317 -085.73323868 both 118 road_stop
+1201  38.15777660 -085.73312241 both 119 road_stop
+1201  38.15763711 -085.73319649 both 120 road_stop
+1201  38.15612618 -085.73289789 both 121 road_start
+1201  38.15751325 -085.73616130 both 122 road_stop
+1201  38.15719988 -085.73578021 both 123 road_stop
+1201  38.15646551 -085.73564065 both 124 road_stop
+1201  38.15651299 -085.73519113 both 125 road_stop
+1201  38.15822256 -085.73551744 both 126 road_start
+1201  38.17393151 -085.74126690 both 127 road_stop
+1201  38.17397887 -085.74107066 both 128 road_stop
+1201  38.17020668 -085.73548351 both 129 road_stop
+1201  38.17176064 -085.73356811 both 130 road_stop
+1201  38.17182882 -085.73377523 both 131 road_stop
+1201  38.17191838 -085.73380953 both 132 road_stop
+1201  38.17258727 -085.73376436 both 133 road_stop
+1201  38.17469348 -085.73444235 both 134 road_start
+1201  38.17689835 -085.74192013 both 135 road_stop
+1201  38.17689615 -085.74179121 both 136 road_stop
+1201  38.17293275 -085.72879670 both 137 road_stop
+1201  38.17465048 -085.73442851 both 138 road_stop
+1201  38.17283316 -085.72865853 both 139 road_start
+1201  38.17295349 -085.72872960 both 140 road_stop
+1201  38.17692197 -085.74175993 both 141 road_stop
+1201  38.17692452 -085.74193534 both 142 road_stop
+1201  38.17683926 -085.74205176 both 143 road_start
+1201  38.16955798 -085.73531010 both 144 road_start
+1201  38.17109400 -085.74033120 both 145 road_start
+1201  38.17174774 -085.74054536 both 146 road_start
+1201  38.16671161 -085.73502575 both 147 road_stop
+1201  38.16720986 -085.73478509 both 148 road_start
+1201  38.16679720 -085.73498500 both 149 road_start
+1201  38.16722806 -085.73477386 both 150 road_stop
+1201  38.16709043 -085.73468817 both 151 road_stop
+1201  38.17527821 -085.73636214 both 152 road_stop
+1201  38.17516727 -085.73642156 both 153 road_stop
+1201  38.17524556 -085.73637956 both 154 road_stop
+1201  38.17501095 -085.73672138 both 155 road_stop
+1201  38.17487539 -085.73681614 both 156 road_stop
+1201  38.17462443 -085.73682546 both 157 road_stop
+1201  38.17083349 -085.73558332 both 158 road_stop
+1201  38.17246431 -085.73611767 both 159 road_stop
+1201  38.17313434 -085.73633591 both 160 road_stop
+1201  38.16948122 -085.73530953 both 161 road_stop
+1201  38.16918874 -085.73522095 both 162 road_stop
+1201  38.16877851 -085.73491657 both 163 road_stop
+1201  38.16802185 -085.73466083 both 164 road_stop
+1201  38.16760857 -085.73463184 both 165 road_stop
+1201  38.16746253 -085.73465457 both 166 road_stop
+1201  38.16731415 -085.73473000 both 167 road_start
+1201  38.16222883 -085.73358630 both 168 road_stop
+1201  38.16225936 -085.73331216 both 169 road_stop
+1201  38.16242728 -085.73298444 both 170 road_stop
+1201  38.16245537 -085.73276622 both 171 road_stop
+1201  38.16243216 -085.73258993 both 172 road_stop
+1201  38.16189121 -085.72646630 both 173 road_stop
+1201  38.16124019 -085.72640551 both 174 road_stop
+1201  38.16223819 -085.72690057 both 175 road_stop
+1201  38.16300374 -085.72940420 both 176 road_stop
+1201  38.16319442 -085.73046874 both 177 road_stop
+1201  38.16564474 -085.73852961 both 178 road_start
+1201  38.16812854 -085.73935091 both 179 road_start
+1201  38.16878970 -085.73957108 both 180 road_start
+1201  38.16461368 -085.73513772 both 181 road_start
+1201  38.15882350 -085.73663737 both 182 road_stop
+1201  38.15932307 -085.73426557 both 183 road_stop
+1201  38.15953110 -085.73373910 both 184 road_stop
+1201  38.15944697 -085.73395201 both 185 road_stop
+1201  38.16036326 -085.73258927 both 186 road_stop
+1201  38.16069223 -085.73231099 both 187 road_stop
+1201  38.16105188 -085.73306177 both 188 road_stop
+1201  38.16176609 -085.73271240 both 189 road_stop
+1201  38.16237729 -085.73241547 both 190 road_stop
+1201  38.16083274 -085.73322763 both 191 road_stop
+1201  38.16014504 -085.73418501 both 192 road_stop
+1201  38.16006994 -085.73431625 both 193 road_stop
+1201  38.15997407 -085.73457718 both 194 road_stop
+1201  38.17672151 -085.74207409 both 195 road_stop
+1201  38.17468131 -085.74142724 both 196 road_stop
+1201  38.17404825 -085.74129122 both 197 road_stop
+1201  38.16404103 -085.73799973 both 198 road_stop
+1201  38.16466459 -085.73820571 both 199 road_stop
+1201  38.16355462 -085.73799436 both 200 road_stop
+1201  38.15952620 -085.73667272 both 201 road_stop
+1201  38.15770054 -085.73627365 both 202 road_start
+1201  38.15804197 -085.73638424 both 203 road_start
+1201  38.16152672 -085.72956907 both 204 road_stop
+1201  38.16218621 -085.72924814 both 205 road_stop
+1201  38.16114604 -085.72957230 both 206 road_stop
+1201  38.16081719 -085.72973669 both 207 road_stop
+1201  38.16064485 -085.72971656 both 208 road_stop
+1201  38.16053421 -085.72960830 both 209 road_stop
+1201  38.15993614 -085.72762321 both 210 road_stop
+1201  38.15994493 -085.72748715 both 211 road_stop
+1201  38.16016933 -085.72719652 both 212 road_stop
+1201  38.16050062 -085.72701379 both 213 road_stop
+1201  38.16053596 -085.72670782 both 214 road_stop
+1201  38.16107313 -085.72644208 both 215 road_stop
+1201  38.17096299 -085.72947666 both 216 road_stop
+1201  38.17133678 -085.72815228 both 217 road_stop
+1201  38.17159792 -085.72901949 both 218 road_stop
+1201  38.17165411 -085.72907381 both 219 road_stop
+1201  38.17177087 -085.72908319 both 220 road_stop
+1201  38.17221496 -085.72877816 both 221 road_stop
+1201  38.17253894 -085.72871127 both 222 road_stop
+1201  38.17228689 -085.72883332 both 223 road_stop
+1201  38.17258555 -085.72857404 both 224 road_start
+1201  38.17056911 -085.72789341 both 225 road_stop
+1201  38.17209170 -085.72840725 both 226 road_stop
+1201  38.17193395 -085.73265356 both 227 road_stop
+1201  38.17193802 -085.73275583 both 228 road_stop
+1201  38.17188815 -085.73279854 both 229 road_stop
+1201  38.17166986 -085.73283026 both 230 road_stop
+1201  38.17128895 -085.73272230 both 231 road_stop
+1201  38.17130804 -085.73259700 both 232 road_stop
+1201  38.17041224 -085.72963605 both 233 road_stop
+1201  38.17006405 -085.72825637 both 234 road_stop
+1201  38.16988670 -085.72766160 both 235 road_start
+1201  38.16887828 -085.72744951 both 236 road_stop
+1201  38.16838821 -085.72810005 both 237 road_stop
+1201  38.16961737 -085.73214397 both 238 road_stop
+1201  38.16776133 -085.73179276 both 239 road_stop
+1201  38.16772912 -085.73220943 both 240 road_start
+1201  38.17029536 -085.73237859 both 241 road_start
+1201  38.17017014 -085.73300037 both 242 road_start
+1201  38.16970506 -085.73531114 both 243 road_start
+1201  38.16769350 -085.73177079 both 244 road_stop
+1201  38.17025265 -085.73259898 both 245 road_stop
+1201  38.16738802 -085.73174046 both 246 road_start
+1201  38.16886573 -085.73215002 both 247 road_stop
+1201  38.16907896 -085.73195780 both 248 road_stop
+1201  38.17155090 -085.73281277 both 249 road_stop
+1201  38.17038790 -085.73241060 both 250 road_stop
+1201  38.17164028 -085.73309396 both 251 road_stop
+1201  38.17156256 -085.73346782 both 252 road_start
+1201  38.16466005 -085.72844421 both 253 road_stop
+1201  38.16474821 -085.72871565 both 254 road_stop
+1201  38.16481664 -085.72901439 both 255 road_stop
+1201  38.16491697 -085.72907414 both 256 road_stop
+1201  38.16527272 -085.72893104 both 257 road_stop
+1201  38.16558138 -085.72869014 both 258 road_stop
+1201  38.16590392 -085.72779109 both 259 road_stop
+1201  38.16618317 -085.72843686 both 260 road_stop
+1201  38.17135064 -085.73338290 both 261 road_stop
+1201  38.16755401 -085.73211055 both 262 road_stop
+1201  38.16746124 -085.73197727 both 263 road_stop
+1201  38.16735801 -085.73164331 both 264 road_stop
+1201  38.16724577 -085.73114109 both 265 road_stop
+1201  38.16691907 -085.73031257 both 266 road_stop
+1201  38.16670762 -085.72994292 both 267 road_stop
+1201  38.16645207 -085.72931580 both 268 road_stop
+1201  38.16746023 -085.73354555 both 269 road_stop
+1201  38.16735113 -085.73389130 both 270 road_stop
+1201  38.16727439 -085.73404770 both 271 road_stop
+1201  38.16717176 -085.73417471 both 272 road_stop
+1201  38.16704416 -085.73427232 both 273 road_stop
+1201  38.16564959 -085.73496527 both 274 road_stop
+1201  38.16655478 -085.73451627 both 275 road_stop
+1201  38.16698284 -085.73430279 both 276 road_stop
+1201  38.16553642 -085.73497515 both 277 road_stop
+1201  38.16530787 -085.73490177 both 278 road_stop
+1201  38.16519913 -085.73489471 both 279 road_stop
+1201  38.16499831 -085.73494692 both 280 road_stop
+1201  38.16343835 -085.73560169 both 281 road_stop
+1201  38.16398233 -085.73545092 both 282 road_stop
+1201  38.16327636 -085.73561862 both 283 road_stop
+1201  38.16258957 -085.73577808 both 284 road_stop
+1201  38.16285373 -085.73571675 both 285 road_stop
+1201  38.16202927 -085.73394646 both 286 road_stop
+1201  38.16473582 -085.73812910 both 287 road_stop
+1201  38.16475008 -085.73796750 both 288 road_start
+1201  38.16484014 -085.73826371 both 289 road_stop
+1201  38.16233727 -085.73006741 both 290 road_stop
+1201  38.16271913 -085.73131670 both 291 road_stop
+1201  38.16296737 -085.73212880 both 292 road_stop
+1201  38.16208070 -085.72867591 both 293 road_stop
+1201  38.16150426 -085.72673852 both 294 road_stop
+1201  38.16139331 -085.72647888 both 295 road_stop
+1201  38.16302842 -085.72954703 both 296 road_stop
+1201  38.16369144 -085.72921819 both 297 road_stop
+1201  38.16381527 -085.72897340 both 298 road_stop
+1201  38.16420936 -085.72876851 both 299 road_stop
+1201  38.16508945 -085.72819992 both 300 road_stop
+1201  38.16473524 -085.72706479 both 301 road_stop
+1201  38.16459131 -085.72680959 both 302 road_stop
+1201  38.16426064 -085.72697496 both 303 road_stop
+1201  38.16420446 -085.72705866 both 304 road_stop
+1201  38.16407115 -085.72712564 both 305 road_stop
+1201  38.16962058 -085.72757117 both 306 road_stop
+1201  38.16936631 -085.72753236 both 307 road_stop
+1201  38.16910550 -085.72749619 both 308 road_stop
+1201  38.16807033 -085.72727660 both 309 road_stop
+1201  38.16779673 -085.72741391 both 310 road_stop
+1201  38.16772738 -085.72742449 both 311 road_stop
+1201  38.16767098 -085.72738803 both 312 road_stop
+1201  38.16763492 -085.72725279 both 313 road_stop
+1201  38.16757483 -085.72716694 both 314 road_stop
+1201  38.16722949 -085.72687863 both 315 road_stop
+1201  38.16694056 -085.72672869 both 316 road_stop
+1201  38.16687738 -085.72673849 both 317 road_stop
+1201  38.16681343 -085.72685707 both 318 road_stop
+1201  38.16663929 -085.72710599 both 319 road_stop
+1201  38.16641508 -085.72726376 both 320 road_stop
+1201  38.16628319 -085.72862368 both 321 road_stop
+1201  38.16628999 -085.72843565 both 322 road_stop
+1201  38.16599083 -085.72749504 both 323 road_stop
+1201  38.16576895 -085.72763995 both 324 road_stop
+1201  38.16503128 -085.72824668 both 325 road_stop
+1201  38.16445425 -085.72855336 both 326 road_stop
+1201  38.16437328 -085.72849168 both 327 road_stop
+1201  38.16427928 -085.72815163 both 328 road_stop
+1201  38.16417603 -085.72768811 both 329 road_stop
+1201  38.16402841 -085.72720902 both 330 road_start
+1206 1 0 twoway  road
+1206 2 1 twoway  road
+1206 3 2 twoway  road
+1206 4 3 twoway  road
+1206 5 4 twoway  road
+1206 6 5 twoway  road
+1206 7 6 twoway  road
+1206 8 0 twoway  road
+1206 0 7 twoway  road
+1206 9 8 twoway  road
+1206 10 9 twoway  road
+1206 11 10 twoway  road
+1206 12 11 twoway  road
+1206 13 12 twoway  road
+1206 14 13 twoway  road
+1206 15 14 twoway  road
+1206 16 15 twoway  road
+1206 17 16 twoway  road
+1206 18 17 twoway  road
+1206 19 18 twoway  road
+1206 20 19 twoway  road
+1206 21 20 twoway  road
+1206 22 21 twoway  road
+1206 23 22 twoway  road
+1206 24 23 twoway  road
+1206 25 24 twoway  road
+1206 26 25 twoway  road
+1206 27 26 twoway  road
+1206 28 27 twoway  road
+1206 29 28 twoway  road
+1206 30 29 twoway  road
+1206 31 30 twoway  road
+1206 32 31 twoway  road
+1206 33 32 twoway  road
+1206 34 33 twoway  road
+1206 35 34 twoway  road
+1206 36 35 twoway  road
+1206 50 36 twoway  road
+1206 37 47 oneway  road
+1206 38 37 oneway  road
+1206 67 38 oneway  road
+1206 39 67 oneway  road
+1206 40 39 oneway  road
+1206 41 40 oneway  road
+1206 47 41 oneway  road
+1206 46 42 twoway  road
+1206 43 50 twoway  road
+1206 44 43 twoway  road
+1206 45 48 twoway  road
+1206 44 45 twoway  road
+1206 46 44 twoway  road
+1206 64 46 twoway  road
+1206 48 47 twoway  road
+1206 49 48 twoway  road
+1206 50 49 twoway  road
+1206 51 50 twoway  road
+1206 52 51 twoway  road
+1206 53 52 twoway  road
+1206 54 53 twoway  road
+1206 55 54 twoway  road
+1206 56 55 twoway  road
+1206 57 56 twoway  road
+1206 58 57 twoway  road
+1206 59 58 twoway  road
+1206 60 59 twoway  road
+1206 61 60 twoway  road
+1206 68 61 twoway  road
+1206 62 68 twoway  road
+1206 63 62 twoway  road
+1206 64 42 twoway  road
+1206 42 63 twoway  road
+1206 65 64 twoway  road
+1206 66 65 twoway  road
+1206 67 66 twoway  road
+1206 69 68 twoway  road
+1206 70 69 twoway  road
+1206 71 70 twoway  road
+1206 72 71 twoway  road
+1206 73 72 twoway  road
+1206 74 73 twoway  road
+1206 75 74 twoway  road
+1206 76 77 twoway  road
+1206 77 75 twoway  road
+1206 78 76 twoway  road
+1206 79 78 twoway  road
+1206 80 79 twoway  road
+1206 81 80 twoway  road
+1206 82 81 twoway  road
+1206 83 82 twoway  road
+1206 84 83 twoway  road
+1206 85 84 twoway  road
+1206 86 85 twoway  road
+1206 87 86 twoway  road
+1206 88 87 twoway  road
+1206 89 88 twoway  road
+1206 90 89 twoway  road
+1206 91 90 twoway  road
+1206 92 91 twoway  road
+1206 93 92 twoway  road
+1206 94 93 twoway  road
+1206 95 94 twoway  road
+1206 96 95 twoway  road
+1206 97 96 twoway  road
+1206 98 97 twoway  road
+1206 99 98 twoway  road
+1206 100 99 twoway  road
+1206 101 100 twoway  road
+1206 102 101 twoway  road
+1206 103 102 twoway  road
+1206 104 103 twoway  road
+1206 105 104 twoway  road
+1206 106 105 twoway  road
+1206 107 106 twoway  road
+1206 108 107 twoway  road
+1206 109 108 twoway  road
+1206 110 109 twoway  road
+1206 111 110 twoway  road
+1206 112 111 twoway  road
+1206 113 112 twoway  road
+1206 114 113 twoway  road
+1206 115 114 twoway  road
+1206 202 115 twoway  road
+1206 116 185 twoway  road
+1206 117 116 twoway  road
+1206 118 117 twoway  road
+1206 119 118 twoway  road
+1206 120 119 twoway  road
+1206 121 120 twoway  road
+1206 122 202 twoway  road
+1206 123 122 twoway  road
+1206 124 123 twoway  road
+1206 125 124 twoway  road
+1206 126 125 twoway  road
+1206 126 117 twoway  road
+1206 203 126 twoway  road
+1206 128 197 oneway  road
+1206 128 127 oneway  road
+1206 159 128 oneway  road
+1206 146 129 oneway  road
+1206 252 130 oneway  road
+1206 130 252 oneway  road
+1206 130 131 oneway  road
+1206 131 130 oneway  road
+1206 131 132 oneway  road
+1206 132 131 oneway  road
+1206 132 133 oneway  road
+1206 133 132 oneway  road
+1206 134 138 twoway  road
+1206 138 133 twoway  road
+1206 135 143 oneway  road
+1206 136 135 oneway  road
+1206 137 138 oneway  road
+1206 138 154 oneway  road
+1206 154 136 oneway  road
+1206 139 137 oneway  road
+1206 140 139 oneway  road
+1206 141 152 oneway  road
+1206 152 134 oneway  road
+1206 134 140 oneway  road
+1206 142 141 oneway  road
+1206 143 142 oneway  road
+1206 144 145 oneway  road
+1206 180 167 oneway  road
+1206 149 179 oneway  road
+1206 147 275 oneway  road
+1206 148 149 oneway  road
+1206 149 147 oneway  road
+1206 151 150 oneway  road
+1206 276 151 oneway  road
+1206 153 154 oneway  road
+1206 154 152 oneway  road
+1206 155 153 oneway  road
+1206 156 155 oneway  road
+1206 157 156 oneway  road
+1206 158 159 oneway  road
+1206 159 160 oneway  road
+1206 160 157 oneway  road
+1206 129 158 oneway  road
+1206 243 129 oneway  road
+1206 161 144 oneway  road
+1206 144 243 oneway  road
+1206 162 161 oneway  road
+1206 163 162 oneway  road
+1206 164 163 oneway  road
+1206 165 164 oneway  road
+1206 166 165 oneway  road
+1206 150 167 oneway  road
+1206 167 166 oneway  road
+1206 168 285 twoway  road
+1206 169 168 twoway  road
+1206 170 169 twoway  road
+1206 171 170 twoway  road
+1206 172 171 twoway  road
+1206 190 172 twoway  road
+1206 173 174 oneway  road
+1206 175 173 oneway  road
+1206 176 175 oneway  road
+1206 177 296 oneway  road
+1206 296 176 oneway  road
+1206 178 181 oneway  road
+1206 181 177 oneway  road
+1206 183 182 oneway  road
+1206 184 185 oneway  road
+1206 185 183 oneway  road
+1206 186 184 oneway  road
+1206 187 186 oneway  road
+1206 291 187 oneway  road
+1206 188 189 oneway  road
+1206 189 190 oneway  road
+1206 190 292 oneway  road
+1206 191 188 oneway  road
+1206 192 191 oneway  road
+1206 193 192 oneway  road
+1206 194 193 oneway  road
+1206 201 194 oneway  road
+1206 195 143 twoway  road
+1206 196 195 twoway  road
+1206 127 197 twoway  road
+1206 197 196 twoway  road
+1206 196 160 oneway  road
+1206 198 199 twoway  road
+1206 199 289 twoway  road
+1206 289 178 twoway  road
+1206 178 179 twoway  road
+1206 179 180 twoway  road
+1206 180 145 twoway  road
+1206 145 146 twoway  road
+1206 146 127 twoway  road
+1206 200 198 twoway  road
+1206 201 200 twoway  road
+1206 182 201 twoway  road
+1206 202 203 twoway  road
+1206 203 182 twoway  road
+1206 204 205 twoway  road
+1206 206 204 twoway  road
+1206 207 206 twoway  road
+1206 208 207 twoway  road
+1206 209 208 twoway  road
+1206 210 209 twoway  road
+1206 211 210 twoway  road
+1206 212 211 twoway  road
+1206 213 212 twoway  road
+1206 214 213 twoway  road
+1206 215 214 twoway  road
+1206 174 215 twoway  road
+1206 216 225 oneway  road
+1206 227 216 oneway  road
+1206 218 217 oneway  road
+1206 219 218 oneway  road
+1206 220 219 oneway  road
+1206 222 223 oneway  road
+1206 223 220 oneway  road
+1206 221 226 oneway  road
+1206 223 221 oneway  road
+1206 224 222 oneway  road
+1206 228 227 oneway  road
+1206 229 228 oneway  road
+1206 230 229 oneway  road
+1206 249 230 oneway  road
+1206 232 231 oneway  road
+1206 233 232 oneway  road
+1206 234 233 oneway  road
+1206 235 234 oneway  road
+1206 250 236 oneway  road
+1206 237 238 oneway  road
+1206 309 237 oneway  road
+1206 240 239 twoway  road
+1206 241 245 twoway  road
+1206 245 242 twoway  road
+1206 242 243 twoway  road
+1206 244 239 twoway  road
+1206 239 247 twoway  road
+1206 247 245 twoway  road
+1206 246 244 twoway  road
+1206 248 247 twoway  road
+1206 249 231 twoway  road
+1206 231 250 twoway  road
+1206 250 241 twoway  road
+1206 241 238 twoway  road
+1206 238 248 twoway  road
+1206 251 249 twoway  road
+1206 252 251 twoway  road
+1206 254 253 twoway  road
+1206 255 254 twoway  road
+1206 256 255 twoway  road
+1206 257 256 twoway  road
+1206 258 257 twoway  road
+1206 260 258 twoway  road
+1206 259 324 oneway  road
+1206 260 259 oneway  road
+1206 321 260 oneway  road
+1206 240 242 twoway  road
+1206 242 261 twoway  road
+1206 261 252 twoway  road
+1206 262 240 twoway  road
+1206 263 262 twoway  road
+1206 264 246 twoway  road
+1206 246 263 twoway  road
+1206 265 264 twoway  road
+1206 266 265 twoway  road
+1206 267 266 twoway  road
+1206 268 267 twoway  road
+1206 321 268 twoway  road
+1206 269 240 twoway  road
+1206 270 269 twoway  road
+1206 271 270 twoway  road
+1206 272 271 twoway  road
+1206 273 272 twoway  road
+1206 274 275 twoway  road
+1206 275 276 twoway  road
+1206 276 273 twoway  road
+1206 277 274 twoway  road
+1206 278 277 twoway  road
+1206 279 278 twoway  road
+1206 280 279 twoway  road
+1206 282 181 twoway  road
+1206 181 280 twoway  road
+1206 281 282 twoway  road
+1206 283 281 twoway  road
+1206 284 285 twoway  road
+1206 285 283 twoway  road
+1206 286 284 twoway  road
+1206 189 286 twoway  road
+1206 287 199 oneway  road
+1206 288 287 oneway  road
+1206 290 291 oneway  road
+1206 291 292 oneway  road
+1206 292 282 oneway  road
+1206 282 288 oneway  road
+1206 288 289 oneway  road
+1206 293 205 oneway  road
+1206 205 290 oneway  road
+1206 294 293 oneway  road
+1206 295 294 oneway  road
+1206 174 295 oneway  road
+1206 297 296 oneway  road
+1206 298 297 oneway  road
+1206 299 298 oneway  road
+1206 326 299 oneway  road
+1206 301 300 oneway  road
+1206 302 301 oneway  road
+1206 303 302 oneway  road
+1206 304 303 oneway  road
+1206 305 304 oneway  road
+1206 330 305 oneway  road
+1206 306 235 twoway  road
+1206 235 225 twoway  road
+1206 225 217 twoway  road
+1206 217 226 twoway  road
+1206 226 224 twoway  road
+1206 224 139 twoway  road
+1206 307 306 twoway  road
+1206 308 307 twoway  road
+1206 309 236 twoway  road
+1206 236 308 twoway  road
+1206 310 309 twoway  road
+1206 311 310 twoway  road
+1206 312 311 twoway  road
+1206 313 312 twoway  road
+1206 314 313 twoway  road
+1206 315 314 twoway  road
+1206 316 315 twoway  road
+1206 317 316 twoway  road
+1206 318 317 twoway  road
+1206 319 318 twoway  road
+1206 320 319 twoway  road
+1206 323 320 twoway  road
+1206 324 323 twoway  road
+1206 322 321 oneway  road
+1206 323 322 oneway  road
+1206 325 300 twoway  road
+1206 300 324 twoway  road
+1206 326 253 twoway  road
+1206 253 325 twoway  road
+1206 327 326 twoway  road
+1206 328 327 twoway  road
+1206 329 328 twoway  road
+1206 330 329 twoway  road
+1400  38.17016803 -85.73371676  152.78 crew_car 0 New Service Truck 55
+1400  38.17016166 -85.73381175  149.93 crew_car 0 New Service Truck 54
+1400  38.17015401 -85.73388947  155.10 crew_car 0 New Service Truck 53
+1400  38.17013615 -85.73395424  152.02 crew_car 0 New Service Truck 52
+1400  38.17012723 -85.73404059  150.64 crew_car 0 New Service Truck 51
+1400  38.17011448 -85.73411400  156.80 crew_car 0 New Service Truck 50
+1400  38.17008442 -85.73417919  170.30 baggage_train 1 New Service Truck 49
+1400  38.17007400 -85.73424284  159.63 baggage_train 1 New Service Truck 48
+1400  38.17006541 -85.73429362  154.66 baggage_train 1 New Service Truck 47
+1400  38.17005478 -85.73434596  157.45 baggage_train 1 New Service Truck 46
+1400  38.16994823 -85.73475999  140.61 baggage_train 3 New Service Truck 45
+1400  38.16996265 -85.73471784  157.25 baggage_train 3 New Service Truck 44
+1400  38.16997296 -85.73468050  157.64 baggage_train 3 New Service Truck 43
+1400  38.16987879 -85.73374134  329.04 baggage_train 5 New Service Truck 42
+1400  38.16984431 -85.73365090  343.20 baggage_train 5 New Service Truck 41
+1400  38.16984249 -85.73378657  339.44 baggage_train 5 New Service Truck 40
+1400  38.16982616 -85.73389639  331.11 baggage_train 5 New Service Truck 39
+1400  38.16967593 -85.73456996 -13.57 baggage_train 4 New Service Truck 38
+1400  38.16969576 -85.73447665 -17.18 baggage_train 4 New Service Truck 37
+1400  38.16972208 -85.73439557 -23.95 baggage_train 4 New Service Truck 36
+1400  38.17001336 -85.73442488  165.43 gpu 0 New Service Truck 30
+1400  38.17000959 -85.73449184  170.88 gpu 0 New Service Truck 29
+1400  38.16999797 -85.73456253  159.15 gpu 0 New Service Truck 28
+1400  38.16999162 -85.73462813  176.07 gpu 0 New Service Truck 27
+1400  38.16971381 -85.73427660  339.57 fuel_liners 0 New Service Truck 26
+1400  38.16972995 -85.73420147  342.15 fuel_liners 0 New Service Truck 25
+1400  38.16974548 -85.73412454  342.84 fuel_liners 0 New Service Truck 24
+1400  38.16976521 -85.73405119  344.93 fuel_liners 0 New Service Truck 23
+1400  38.16978493 -85.73397605  340.87 fuel_liners 0 New Service Truck 22
+1400  38.16257271 -85.73523264 -157.79 fuel_liners 0 New Service Truck 8
+1400  38.16253702 -85.73512838 -157.79 fuel_liners 0 New Service Truck 8
+1400  38.16236699 -85.73455576  22.77 fuel_liners 0 New Service Truck 8
+1400  38.16238103 -85.73460576  22.77 fuel_liners 0 New Service Truck 8
+1400  38.16239633 -85.73465950  22.77 fuel_liners 0 New Service Truck 8
+1400  38.17224342 -85.72857652  118.37 baggage_train 4 New Service Truck 7
+1400  38.17222732 -85.72860527  118.76 baggage_train 2 New Service Truck 6
+1400  38.17220985 -85.72863800  117.01 baggage_train 2 New Service Truck 5
+1400  38.17129004 -85.73561598  314.29 food 0 New Service Truck 22
+1400  38.18532000 -85.74095490  243.68 food 0 New Service Truck 21
+1400  38.17806747 -85.74883073  16.29 food 0 New Service Truck 20
+1400  38.16702695 -85.73097034  17.55 pushback 0 New Service Truck 29
+1400  38.16701091 -85.73091120  17.16 pushback 0 New Service Truck 28
+1400  38.16700161 -85.73085654  19.50 pushback 0 New Service Truck 27
+1400  38.16699007 -85.73081371  19.54 pushback 0 New Service Truck 26
+1400  38.16698109 -85.73077619  18.08 pushback 0 New Service Truck 25
+1400  38.16697275 -85.73074601  14.33 pushback 0 New Service Truck 24
+1400  38.16696601 -85.73071501  15.99 pushback 0 New Service Truck 23
+1401  38.17779143 -85.74854754  352.06 baggage_loader|baggage_train|crew_car|fuel_jets|gpu New Service Truck Destination 16
+1401  38.17515864 -85.74771354  166.33 baggage_loader|baggage_train|crew_car|fuel_jets|gpu New Service Truck Destination 15
+1401  38.18282486 -85.74475663  63.12 baggage_train|fuel_jets|fuel_liners|food|gpu New Service Truck Destination 14
+1401  38.18474026 -85.74176935  194.83 baggage_train|fuel_jets|fuel_liners|food|gpu New Service Truck Destination 13
+1401  38.18577580 -85.73796026  235.78 baggage_train|fuel_jets|fuel_liners|food|gpu New Service Truck Destination 12
+1401  38.18419395 -85.72741613  166.50 baggage_train|crew_car|fuel_jets|gpu New Service Truck Destination 11
+1401  38.18486429 -85.72759613  288.64 baggage_train|crew_car|fuel_jets|gpu New Service Truck Destination 10
+1401  38.18490528 -85.72757554  289.01 baggage_train|crew_car|fuel_jets|gpu New Service Truck Destination 9
+1401  38.18473163 -85.72757211  25.71 baggage_train|crew_car|fuel_jets|fuel_liners|gpu New Service Truck Destination 8
+1401  38.17999221 -85.72519392  223.11 baggage_train|crew_car|fuel_jets|gpu New Service Truck Destination 7
+1401  38.17997171 -85.72541206  219.67 baggage_train|crew_car|fuel_jets|gpu New Service Truck Destination 6
+1401  38.17994375 -85.72561241  224.34 baggage_train|crew_car|fuel_jets|gpu New Service Truck Destination 5
+1401  38.15723857 -85.73571605  351.30 baggage_train|crew_car|fuel_jets|gpu New Service Truck Destination 4
+1401  38.15730505 -85.73540806  170.65 baggage_train|crew_car|fuel_jets|gpu New Service Truck Destination 3
+1401  38.15762026 -85.73550768  171.59 baggage_train|crew_car|fuel_jets|gpu New Service Truck Destination 2
+1401  38.15762588 -85.73547235  171.38 baggage_train|crew_car|fuel_jets|gpu New Service Truck Destination 1
+1401  38.16706646 -85.73884213  90.00 baggage_train|crew_car|fuel_jets New Service Truck Destination 73
+1401  38.17050155 -85.73999707  294.90 baggage_train|crew_car|fuel_jets New Service Truck Destination 72
+1401  38.17040043 -85.73996464  36.38 baggage_train|crew_car|fuel_jets New Service Truck Destination 71
+1401  38.17203138 -85.74053064  167.05 baggage_train|crew_car|fuel_jets New Service Truck Destination 70
+1401  38.17512244 -85.74147744  165.29 baggage_train|crew_car|fuel_jets New Service Truck Destination 68
+1401  38.17692425 -85.74206194  232.12 baggage_train|crew_car|fuel_jets New Service Truck Destination 67
+1401  38.17451087 -85.73423214  88.44 baggage_train|crew_car|fuel_jets New Service Truck Destination 66
+1401  38.16260699 -85.73536331  202.96 fuel_jets|fuel_liners New Service Truck Destination 20
+1401  38.16259172 -85.73528435  20.38 fuel_jets|fuel_liners New Service Truck Destination 19
+1401  38.16241007 -85.73471235  18.43 fuel_jets|fuel_liners New Service Truck Destination 18
+1401  38.15662482 -85.73559856  350.12 baggage_loader|baggage_train|crew_car New Service Truck Destination 17
+1401  38.15666451 -85.73528536  171.30 baggage_loader|baggage_train|crew_car New Service Truck Destination 16
+1401  38.15622519 -85.73281704  351.21 baggage_loader|baggage_train|crew_car New Service Truck Destination 15
+1401  38.15621813 -85.73285074  353.37 baggage_loader|baggage_train|crew_car New Service Truck Destination 14
+1401  38.17467859 -85.73491975  291.80 baggage_loader|baggage_train|crew_car|fuel_jets|fuel_liners New Service Truck Destination 13
+1401  38.17473926 -85.73491975  288.24 baggage_loader|baggage_train|crew_car|fuel_jets|fuel_liners New Service Truck Destination 12
+1401  38.16591831 -85.72845082  197.28 baggage_loader|baggage_train|crew_car|fuel_jets New Service Truck Destination 9
+1401  38.16497567 -85.72728761  291.18 baggage_train|crew_car New Service Truck Destination 4
+1401  38.16495159 -85.72729782  287.97 baggage_train|crew_car New Service Truck Destination 3
+1401  38.16492706 -85.72731370  289.93 baggage_train|crew_car New Service Truck Destination 2
+1401  38.16489897 -85.72732561  292.31 baggage_train|crew_car New Service Truck Destination 1
 99
