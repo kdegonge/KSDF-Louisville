@@ -1,4 +1,4 @@
-++SDF++ 279.5 hrs
+++SDF++ 2.5 hrs
 [x] runway markings
 [x] taxiway poly
 [x] taxiway shoulders
@@ -60,21 +60,18 @@
 [x] appr light fence
 [x] buildings (see spreadsheet for progress tracking)
 [x] compress building textures
+[x] perimeter buildings
+[x] vegetation
+[x] ANG fence by twy A
+[x] fence around fuel farm
+[x] worldport clutter
+[x] worldport small lines
+[x] 17L embedded lights threshold
+[x] lobster height above origin
 [ ] optimize runway signs (decrease poly count, switch library)
-[ ] perimeter buildings
-[ ] vegetation
-[ ] ANG fence by twy A
-[ ] fence around fuel farm
 [ ] update model for worldport stand C
-[ ] worldport clutter
-[ ] worldport small lines
 [ ] wt3 routes (colab)
 [ ] fix worldport terrain issue
 [ ] make the taxiway rubber better
 [ ] fix 17R poly heading
-[?] 17L embedded lights threshold
 [ ] worldport signs further from wall
-[x] lobster height above origin
-[ ] 
-
--------------------
