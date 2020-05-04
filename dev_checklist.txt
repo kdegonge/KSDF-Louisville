@@ -1,77 +1,15 @@
-++SDF++ 285 hrs
-[x] runway markings
-[x] taxiway poly
-[x] taxiway shoulders
-[x] taxaiway overlay
-[x] taxiway paint
-[x] taxiway edges
-[x] grass edges
-[x] taxiway edge lines
-[x] taxiway center lines
-[x] taxiway hold short lines
-[x] taxiway shoulder lines
-[x] parking lines
-[x] taxiway misc lines
-[x] taxiway roads
-[x] lights
-[x] taxiway markings
-[x] parking dirt/stain overlay
-[x] road rubber marks 8.45
-[x] ground paint
-[x] fix missing lines
-[x] tar marks
-[x] ortho
-[x] papi lights
-[x] 3d grass
-[x] taxiway rubber marks
-[x] taxiway signs
-[x] color correct ortho +75s +10r -10b
-[x] ortho file format
-[x] ortho crop tiles
-[x] raise ground paint objects (clipping issues)
-[x] make drain line
-[x] fix ortho fedex ramp
-[x] add drain at fedex ramp, maybe ANG
-[x] run performance tests
-[x] create building map
-[x] aircraft ramp positions
-[x] sam jetways
-[x] taxi routes
-[x] fix lights on 17R threshold
-[x] terminal shadow
-[x] rebake roof
-[x] fix 35L embedded lighting
-[x] lower worldport DGS
-[x] terminal ground clutter
-[x] ground routes
-[x] finish adding dgs to worldport
-[x] A1 pushback route
-[x] sam marshallers
-[x] add airport boundary
-[x] fence around burrial ground
-[x] fix SE ortho
-[x] worldport loading bays
-[x] sam config
-[x] terminal small clutter
-[x] terminal metalness
-[x] windsocks
-[x] brighter worldport lighting
-[x] ATC comms towers
-[x] appr light fence
-[x] buildings (see spreadsheet for progress tracking)
-[x] compress building textures
-[x] perimeter buildings
-[x] vegetation
-[x] ANG fence by twy A
-[x] fence around fuel farm
-[x] worldport clutter
-[x] worldport small lines
-[x] 17L embedded lights threshold
-[x] lobster height above origin
-[ ] optimize runway signs (decrease poly count, switch library)
-[ ] update model for worldport stand C
-[ ] wt3 routes (colab)
-[ ] fix worldport terrain issue
-[ ] make the taxiway rubber better
-[ ] fix 17R poly heading
-[ ] worldport signs further from wall
+++SDF++ 285+000 hrs 10.30
+
+--v1.1--
+[ ] twy D extension
+[ ] rwy 11 blast pad
+[ ] terminal LED lighting
+[ ] ortho cropping
+[ ] update taxi routes
+[ ] update wed taxiways
+[ ] update lighting
+[ ] update markings
+[ ] update signage
+[ ] update edges
+[ ] move service road
+[ ] update ortho
