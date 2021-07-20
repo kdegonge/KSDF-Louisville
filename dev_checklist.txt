@@ -1,8 +1,12 @@
 ++SDF++ 285+3 hrs
 
+--v1.1+--
+[ ] A14 jetway extension
+[ ] terminal parking airline codes
+
 --v1.1--
-[ ] update ortho
-[ ] ortho DDS compression
+[x] update ortho
+[x] ortho DDS compression
 [x] terminal LED lighting
 [x] ortho cropping
 [x] update taxi routes
